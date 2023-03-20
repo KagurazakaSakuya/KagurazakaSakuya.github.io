@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://moesakuya.xyz/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/index.html</loc>
+    <loc>https://moesakuya.xyz/%E7%BD%91%E7%AB%99%E7%9A%84%E6%88%90%E9%95%BF%E5%8E%86%E7%A8%8B/index.html</loc>
     
     <lastmod>2023-03-20</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/life/music/index.html</loc>
+    <loc>https://moesakuya.xyz/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -273,6 +273,15 @@
   
   <url>
     <loc>https://moesakuya.xyz/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moesakuya.xyz/life/music/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -299,15 +308,6 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://moesakuya.xyz/site/census/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/life/games/index.html</loc>
+    <loc>https://moesakuya.xyz/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
