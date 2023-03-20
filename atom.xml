@@ -202,7 +202,7 @@
     <link href="https://moesakuya.xyz/posts/89cb7ce0.html"/>
     <id>https://moesakuya.xyz/posts/89cb7ce0.html</id>
     <published>2021-11-12T03:11:49.000Z</published>
-    <updated>2023-03-20T15:57:12.540Z</updated>
+    <updated>2023-03-20T16:05:41.414Z</updated>
     
     <content type="html"><![CDATA[<div class="tip info"><p>1.本方法适用于NVIDIA和AMD两种显卡<br>2.据我实测，如果你是中低端的配置的话，那么优化效果往往是最好的。</p></div><p>##一、基本设置\</p><p>首先，到https://github.com/fholger/openvr_fsr下载项目文件。</p><p>下载好压缩包并解压后分别会得到两个文件，分别是openvr_api.dll 和 openvr_mod.</p><p>打开你VR游戏目录下的data文件夹（一般是&lt;游戏名字&gt;_data)</p><span class='nota' data-nota='如果你的游戏基于虚幻4，那么对应的文件夹为Engine\\Binaries\\ThirdParty\\OpenVR\\OpenVRvX\_Y\_Z\'>进plugins下的文件夹，你会看到文件夹内也有一个openvr\_api.dll。</span>进plugins下的文件夹，你会看到文件夹内也有一个openvr\_api.dll。将此文件改成别的名字（你能记得住的）并将你刚刚得到的两个文件放入，这样就完成了初步设置。<p>##二、参数设置\</p><p>打开openvr_mod，你会看到如下界面。</p><p>这时你需要调整的参数有renderScale和sharpness。</p><p>降低这两个参数可有效提升你的FPS，这个参数具体要调到多少需要按照你自身情况测试。</p><p>根据本模组使用者的反馈，合理的设置甚至可以使游戏帧数翻倍。</p><p><img src="https://bu.dusays.com/2023/03/20/64187abe11eda.jpg" alt="code"></p>]]></content>
     
