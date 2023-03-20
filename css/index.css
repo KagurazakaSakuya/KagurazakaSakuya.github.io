@@ -6273,6 +6273,13 @@ blockquote.pullquote.right {
   --hl-bg: #282c34;
 }
 
+/* 翻页按钮居中 */
+#pagination {
+    width: 100%;
+    margin: auto;
+}
+
+
 @import "//at.alicdn.com/t/c/font_3961852_0mf7vw7p80ds.css"
 /* 滚动条样式 */
 ::-webkit-scrollbar {
