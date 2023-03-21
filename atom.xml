@@ -202,18 +202,18 @@
     <link href="https://moesakuya.xyz/posts/89cb7ce0.html"/>
     <id>https://moesakuya.xyz/posts/89cb7ce0.html</id>
     <published>2021-11-12T03:11:49.000Z</published>
-    <updated>2023-03-20T16:05:41.414Z</updated>
+    <updated>2023-03-21T15:31:14.369Z</updated>
     
-    <content type="html"><![CDATA[<div class="tip info"><p>1.本方法适用于NVIDIA和AMD两种显卡<br>2.据我实测，如果你是中低端的配置的话，那么优化效果往往是最好的。</p></div><p>##一、基本设置\</p><p>首先，到https://github.com/fholger/openvr_fsr下载项目文件。</p><p>下载好压缩包并解压后分别会得到两个文件，分别是openvr_api.dll 和 openvr_mod.</p><p>打开你VR游戏目录下的data文件夹（一般是&lt;游戏名字&gt;_data)</p><span class='nota' data-nota='如果你的游戏基于虚幻4，那么对应的文件夹为Engine\\Binaries\\ThirdParty\\OpenVR\\OpenVRvX\_Y\_Z\'>进plugins下的文件夹，你会看到文件夹内也有一个openvr\_api.dll。</span>进plugins下的文件夹，你会看到文件夹内也有一个openvr\_api.dll。将此文件改成别的名字（你能记得住的）并将你刚刚得到的两个文件放入，这样就完成了初步设置。<p>##二、参数设置\</p><p>打开openvr_mod，你会看到如下界面。</p><p>这时你需要调整的参数有renderScale和sharpness。</p><p>降低这两个参数可有效提升你的FPS，这个参数具体要调到多少需要按照你自身情况测试。</p><p>根据本模组使用者的反馈，合理的设置甚至可以使游戏帧数翻倍。</p><p><img src="https://bu.dusays.com/2023/03/20/64187abe11eda.jpg" alt="code"></p>]]></content>
+    <content type="html"><![CDATA[<div class="tip info"><p>1.本方法适用于NVIDIA和AMD两种显卡<br>2.据我实测，如果你是中低端的配置的话，那么优化效果往往是最好的。</p></div>  <h2 id="一、基本设置">一、基本设置</h2><p>首先，到https://github.com/fholger/openvr_fsr下载项目文件。</p><p>下载好压缩包并解压后分别会得到两个文件，分别是openvr_api.dll 和 openvr_mod.</p><p>打开你VR游戏目录下的data文件夹（一般是&lt;游戏名字&gt;_data)</p><span class='nota' data-nota='如果你的游戏基于虚幻4，那么对应的文件夹为Engine\\Binaries\\ThirdParty\\OpenVR\\OpenVRvX\_Y\_Z\'>进plugins下的文件夹，你会看到文件夹内也有一个openvr\_api.dll。</span>进plugins下的文件夹，你会看到文件夹内也有一个openvr\_api.dll。将此文件改成别的名字（你能记得住的）并将你刚刚得到的两个文件放入，这样就完成了初步设置。<hr><h2 id="二、参数设置">二、参数设置</h2><p>打开openvr_mod，你会看到如下界面。</p><p>这时你需要调整的参数有renderScale和sharpness。</p><p>降低这两个参数可有效提升你的FPS，这个参数具体要调到多少需要按照你自身情况测试。</p><p>根据本模组使用者的反馈，合理的设置甚至可以使游戏帧数翻倍。</p><p><img src="https://bu.dusays.com/2023/03/20/64187abe11eda.jpg" alt="code"></p>]]></content>
     
     
       
       
     <summary type="html">&lt;div class=&quot;tip info&quot;&gt;&lt;p&gt;1.本方法适用于NVIDIA和AMD两种显卡&lt;br&gt;
 2.据我实测，如果你是中低端的配置的话，那么优化效果往往是最好的。&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;##一、基本设置\&lt;/p&gt;
-&lt;p&gt;首先，到https://github.com/</summary>
+&lt;/div&gt;  
+&lt;h2 id=&quot;一、基本设置&quot;&gt;一、基本设置&lt;/h2&gt;
+&lt;p&gt;首先，到https:</summary>
       
     
     
@@ -341,6 +341,32 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>Steam个人资料美化Ep.1⭐---艺术展柜の美化</title>
+    <link href="https://moesakuya.xyz/posts/fd5b9e21.html"/>
+    <id>https://moesakuya.xyz/posts/fd5b9e21.html</id>
+    <published>2021-06-27T11:28:11.000Z</published>
+    <updated>2023-03-21T16:11:52.301Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip warning"><p>你的Steam需要达到一定的等级来解锁艺术展柜功能。貌似是10级？=。=</p></div>  <div class="tip warning"><p>所有的操作都要在网页Steam中进行，不要使用你的Steam客户端呀！！！！！！！</p></div><hr><h2 id="一、图片准备">一、图片准备</h2><p>首先你需要在市场购买一个你喜欢的背景。</p><p>准备好后进入<a href="https://steam.design/">https://steam.design/</a></p><p>在右上角登录你的steam，然后到steam中的库存选择你想要的背景，点“<code>查看完整大小</code>”。</p><p>复制刚刚打开的图片的链接，粘贴到刚刚的网站，然后点“<code>Change BG</code>”。</p><p>点“<code>Download Image</code>”，这个时候你会得到一个zip压缩包。</p><hr><h2 id="二、图片上传">二、图片上传</h2><div class="tip warning"><p>注意：如果你要将你的长背景美化后再上传，请先将你得到的压缩包解压缩，用PS打开，你可以将你喜欢的动漫人物或其他物品P进图片，注意保存的时候要维持原来的格式！！！！！</p></div>  <div class="tip "><p>如果你的个人资料没有“<code>艺术作品</code>”，请直接至<br><a href="https://steamcommunity.com/sharedfiles/edititem/767/3/">https://steamcommunity.com/sharedfiles/edititem/767/3/</a></p></div><p>到你的Steam个人资料，将背景先改好。</p><p>返回你的个人资料，点“<code>艺术作品</code>”，然后点“<code>上传艺术作品</code>”——“<code>非游戏特定</code>”。</p><p>给你的艺术作品随便填一个名字就行，然后上传压缩包内的图片。（第一张比较大的是属于精选艺术展柜专用，请传那两个偏小的）</p><p>打开审查元素（按F12），在Console中输入以下代码：</p><p>var num= document.getElementsByName(“image_width”)[0].value; document.getElementsByName(“image_height”)[0].value = num-(num-1); document.getElementsByName(“image_width”)[0].value= num*100;</p><p>然后回车，这时会返回一个50600或者10000.</p><p>接下来你就可以上传了。</p><p>注意，这个操作你要再重复一遍用来上传第二张图片。</p><hr><h2 id="三、修改个人资料">三、修改个人资料</h2><p>接下来就是收尾阶段了。</p><p>到你的steam个人资料，设置一个艺术作品展柜，将两张图片上传即可。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip warning&quot;&gt;&lt;p&gt;你的Steam需要达到一定的等级来解锁艺术展柜功能。貌似是10级？=。=&lt;/p&gt;
+&lt;/div&gt;  
+&lt;div class=&quot;tip warning&quot;&gt;&lt;p&gt;所有的操作都要在网页Steam中进行，不要使用你的Steam客户端呀</summary>
+      
+    
+    
+    
+    <category term="技术教程" scheme="https://moesakuya.xyz/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Steam,美化" scheme="https://moesakuya.xyz/tags/Steam-%E7%BE%8E%E5%8C%96/"/>
     
   </entry>
   
