@@ -112,7 +112,7 @@
     <link href="https://moesakuya.xyz/posts/561d5a53.html"/>
     <id>https://moesakuya.xyz/posts/561d5a53.html</id>
     <published>2022-06-02T10:24:07.000Z</published>
-    <updated>2023-03-27T14:13:53.183Z</updated>
+    <updated>2023-03-27T14:43:19.151Z</updated>
     
     <content type="html"><![CDATA[<h2 id="一、前言">一、前言</h2><p>这事偶然在github发现的项目，真的很nb，用了之后可5秒启动steamVR，且屏蔽OCULUS dash，大幅减少显存占用。</p><p>爽爆了！</p><p>这边贴下项目地址<a href="https://github.com/ItsKaitlyn03/OculusKiller">https://github.com/ItsKaitlyn03/OculusKiller</a></p><hr><h2 id="二、如何使用">二、如何使用</h2><p>好吧，你可能看不懂/懒得看项目说明，那我在这里讲解一下</p><p>首先，到<code>X:\\Oculus\\Support\\oculus-dash\\dash\\bin</code></p><p>找到<code>OculusDash.exe</code> 进行改名</p><p>然后将你下载到的文件塞进去</p><p>然后打开任务管理器，到服务栏，重启<code>OVRServer</code>服务。</p><p>然后就可以了。</p>]]></content>
     
@@ -212,7 +212,7 @@
     <link href="https://moesakuya.xyz/posts/89cb7ce0.html"/>
     <id>https://moesakuya.xyz/posts/89cb7ce0.html</id>
     <published>2021-11-12T03:11:49.000Z</published>
-    <updated>2023-03-27T14:06:58.558Z</updated>
+    <updated>2023-03-27T14:43:10.678Z</updated>
     
     <content type="html"><![CDATA[<div class="tip info"><p>1.本方法适用于NVIDIA和AMD两种显卡<br>2.据我实测，如果你是中低端的配置的话，那么优化效果往往是最好的。</p></div>  <h2 id="一、基本设置">一、基本设置</h2><p>首先，到https://github.com/fholger/openvr_fsr下载项目文件。</p><p>下载好压缩包并解压后分别会得到两个文件，分别是openvr_api.dll 和 openvr_mod.</p><p>打开你VR游戏目录下的data文件夹（一般是&lt;游戏名字&gt;_data)</p><span class='nota' data-nota='如果你的游戏基于虚幻4，那么对应的文件夹为Engine\\Binaries\\ThirdParty\\OpenVR\\OpenVRvX\_Y\_Z\'>进plugins下的文件夹，你会看到文件夹内也有一个openvr\_api.dll。</span>进plugins下的文件夹，你会看到文件夹内也有一个openvr\_api.dll。将此文件改成别的名字（你能记得住的）并将你刚刚得到的两个文件放入，这样就完成了初步设置。<hr><h2 id="二、参数设置">二、参数设置</h2><p>打开openvr_mod，你会看到如下界面。</p><p>这时你需要调整的参数有<code>renderScale</code>和<code>sharpness</code>。</p><p>降低这两个参数可有效提升你的FPS，这个参数具体要调到多少需要按照你自身情况测试。</p><p>根据本模组使用者的反馈，合理的设置甚至可以使游戏帧数翻倍。</p><p><img src="https://bu.dusays.com/2023/03/20/64187abe11eda.jpg" alt="code"></p>]]></content>
     
@@ -341,7 +341,7 @@
     <link href="https://moesakuya.xyz/posts/6cfa4544.html"/>
     <id>https://moesakuya.xyz/posts/6cfa4544.html</id>
     <published>2021-06-27T11:56:27.000Z</published>
-    <updated>2023-03-27T14:13:37.789Z</updated>
+    <updated>2023-03-27T14:43:38.603Z</updated>
     
     <content type="html"><![CDATA[<div class="tip info"><p>最近在telegram上搞到好多好看的表情包（在telegram显示是透明的），但是在导出来发到qq时，qq自动给图糊上了白/黑边。当时就想到了解决方法：qq能对jpg，png之类的文件下手，总不能对gif下手吧？！于是实践了一下，确实可以解决这个问题。</p></div><hr><h1>动手！</h1><div class="tip warning"><p>本操作好像仅适用于带白黑边的表情包哦~</p></div><p>很简单~先打开PS，把表情包打开，文件-导出-储存为Web所用格式（旧版）。</p><p>导出格式选择Gif，然后点储存，发到qq就可以了~</p>]]></content>
     
@@ -365,7 +365,7 @@
     <link href="https://moesakuya.xyz/posts/fd5b9e21.html"/>
     <id>https://moesakuya.xyz/posts/fd5b9e21.html</id>
     <published>2021-06-27T11:28:11.000Z</published>
-    <updated>2023-03-27T14:06:21.368Z</updated>
+    <updated>2023-03-27T14:43:37.204Z</updated>
     
     <content type="html"><![CDATA[<div class="tip warning"><p>你的Steam需要达到一定的等级来解锁艺术展柜功能。貌似是10级？=。=</p></div>  <div class="tip warning"><p>所有的操作都要在网页Steam中进行，不要使用你的Steam客户端呀！！！！！！！</p></div><hr><h2 id="一、图片准备">一、图片准备</h2><p>首先你需要在市场购买一个你喜欢的背景。</p><p>准备好后进入<a href="https://steam.design/">https://steam.design/</a></p><p>在右上角登录你的steam，然后到steam中的库存选择你想要的背景，点“<code>查看完整大小</code>”。</p><p>复制刚刚打开的图片的链接，粘贴到刚刚的网站，然后点“<code>Change BG</code>”。</p><p>点“<code>Download Image</code>”，这个时候你会得到一个zip压缩包。</p><hr><h2 id="二、图片上传">二、图片上传</h2><div class="tip warning"><p>注意：如果你要将你的长背景美化后再上传，请先将你得到的压缩包解压缩，用PS打开，你可以将你喜欢的动漫人物或其他物品P进图片，注意保存的时候要维持原来的格式！！！！！</p></div>  <div class="tip "><p>如果你的个人资料没有“<code>艺术作品</code>”，请直接至<br><a href="https://steamcommunity.com/sharedfiles/edititem/767/3/">https://steamcommunity.com/sharedfiles/edititem/767/3/</a></p></div><p>到你的Steam个人资料，将背景先改好。</p><p>返回你的个人资料，点“<code>艺术作品</code>”，然后点“<code>上传艺术作品</code>”——“<code>非游戏特定</code>”。</p><p>给你的艺术作品随便填一个名字就行，然后上传压缩包内的图片。（第一张比较大的是属于精选艺术展柜专用，请传那两个偏小的）</p><p>打开审查元素（按F12），在Console中输入以下代码：</p><p>var num= document.getElementsByName(“image_width”)[0].value; document.getElementsByName(“image_height”)[0].value = num-(num-1); document.getElementsByName(“image_width”)[0].value= num*100;</p><p>然后回车，这时会返回一个50600或者10000.</p><p>接下来你就可以上传了。</p><p>注意，这个操作你要再重复一遍用来上传第二张图片。</p><hr><h2 id="三、修改个人资料">三、修改个人资料</h2><p>接下来就是收尾阶段了。</p><p>到你的steam个人资料，设置一个艺术作品展柜，将两张图片上传即可。</p>]]></content>
     
