@@ -175,9 +175,23 @@
       <link href="/posts/f1fe911e.html"/>
       <url>/posts/f1fe911e.html</url>
       
-        <content type="html"><![CDATA[<p>这几天在steam瞎逛的时候想到了一个有趣的问题：steam会不会早就已经知道我们转区了？</p><p>仔细一想，转区用户其实有非常明显的一些特征：</p><p>1.使用着与本国语言不符的Steam界面语言</p><p>2.有着众多的非本国的Steam好友</p><p>3.说着非本国的语言（即steam聊天等）</p><p>4.仅对账户使用充值卡/市场交易增加其账户余额</p><p>5.登录所使用的IP与本国的IP段不符</p><p>6.在非本国的服务器上下载游戏</p><p>如果只符合上列的几个特征的话是不足以被推断为转区用户的。</p><p>可惜极大部分转区用户完美符合上述所有特征。</p><p>另外不要想着使用代理就能躲避探测，现在已经有成熟的技术来判断你是否使用了代理。</p><p>个人猜测V社已经知道了我们转区的具体情况，但是转区用户太多所以懒得管，枪打出头鸟，猥琐一点应该还是没事的^ ^</p><p>上面的都只是我个人的想法，真正的情况咱可不知道^ ^</p><p>写这篇文章只是提醒各位不要作死</p><p>转区可以，猥琐一点，少薅点羊毛，作死的必吃红信~</p>]]></content>
+        <content type="html"><![CDATA[<p>这几天在steam瞎逛的时候想到了一个有趣的问题：steam会不会早就已经知道我们转区了？</p><p>仔细一想，转区用户其实有非常明显的一些特征：</p><ol><li>使用着与本国语言不符的Steam界面语言</li><li>有着众多的非本国的Steam好友</li><li>说着非本国的语言（即steam聊天等）</li><li>仅对账户使用充值卡/市场交易增加其账户余额</li><li>登录所使用的IP与本国的IP段不符</li><li>在非本国的服务器上下载游戏</li></ol><p>如果只符合上列的几个特征的话是不足以被推断为转区用户的。</p><p>可惜极大部分转区用户完美符合上述所有特征。</p><p>另外不要想着使用代理就能躲避探测，现在已经有成熟的技术来判断你是否使用了代理。</p><p>个人猜测V社已经知道了我们转区的具体情况，但是转区用户太多所以懒得管，枪打出头鸟，猥琐一点应该还是没事的^ ^</p><p>上面的都只是我个人的想法，真正的情况咱可不知道^ ^</p><p>写这篇文章只是提醒各位不要作死</p><p>转区可以，猥琐一点，少薅点羊毛，作死的必吃红信~</p>]]></content>
       
       
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+            <tag> 瞎比比 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -189,19 +203,6 @@
       <url>/posts/39acea07.html</url>
       
         <content type="html"><![CDATA[<p>[dangerbox title=“注意！！”]</p><p>1.你的STEAM需要到10级</p><p>2.你准备的GIF，至少要超过15帧！！！！！！！！</p><p>3.你的GIF的大小要合理（注意：长度不建议低于500像素不然容易失败）</p><p>4.请准备一个二进制编辑器（这里推荐010 editor）</p><p>[/dangerbox]</p><p>[title]一、GIF处理[/title]</p><p>打开你photoshop</p><p>点“图像——图像大小”将图像分辨率改为一个合理的数字（如果你的图像很奇怪的话</p><p>然后点“视图——新建参考线版面”，列数4。</p><p>然后用裁剪工具下拉至少100像素。</p><p>然后用裁剪工具剪出第一部分，点“文件——导出——储存为Web所用格式（旧版）”，剩下三个以此类推。</p><p>进入<a href="https://ezgif.com/maker">https://ezgif.com/maker</a></p><p>将GIF上传并开始制作，点Make a GIF,然后在下面的那一行按钮中点optimize，下拉点optimize GIF!</p><p>然后在下方按钮中点Save</p><p>四张GIF都要过一遍。</p><p>[title]二、二进制编辑器登场！[/title]</p><p>将做完的四个GIF全部拖入二进制编辑器（拖不进去就用010 editor打开），点“搜索——替换”。</p><p>在网上找一个十六进制转换器，输入原图像高度转换为16进制。</p><p>将第一行的6-9列替换（这时候就要用到原PS内GIF的高度了，记住它）</p><p>例：我的是A1 00 2F 02，原449像素图像转换得到1c1，所以要先变成为A1 00 01 c1，然后调转宽度，最后变为A1 00 c1 01.</p><p>然后点全部替换，然后保存（剩三四个同样的操作）。</p><p>[title]三、上传作品[/title]</p><p>进入https://steamcommunity.com/sharedfiles/edititem/767/3/</p><p>复制以下代码：</p><p>$J(‘#ConsumerAppID’).val(480),$J(‘[name=file_type]’).val(0),$J(‘[name=visibility]’).val(0);</p><p>F12打开审查元素-进console，将复制的代码输入后回车，选中上传的GIF进行上传.</p><p>到你的个人资料，编辑个人资料，展柜选择“您的创意工坊展柜”上传即可。</p><p><strong>最后！！！！以防万一！</strong></p><p><strong>确保你每次上传完GIF后都将界面刷新，并且重新输入代码！</strong></p><p>如果还是出现问题，你可以联系我，我可以帮助你解决^ ^</p><p>[title]四、交作业喵[/title]</p><p>咱的作业：<a href="https://steamcommunity.com/id/KagurazakaSakuya/">https://steamcommunity.com/id/KagurazakaSakuya/</a></p><p>效果图</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2021/07/QQ%E6%88%AA%E5%9B%BE20210731181013.jpg" alt=""> <img src="https://moesakuya.xyz/wp-content/uploads/2021/07/QQ%E6%88%AA%E5%9B%BE20210731181005.jpg" alt=""></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>在中国大陆如何愉快的使用Discord</title>
-      <link href="/posts/17f95104.html"/>
-      <url>/posts/17f95104.html</url>
-      
-        <content type="html"><![CDATA[<p>[infobox title=“提醒”]本文提供两种解决方案哦（第一种最简单，硬核玩家请直接跳第二种^ ^[/infobox]</p><p>[title]解决方案1：使用反代[/title]</p><p>你需要用到<a href="https://www.dogfight360.com/blog/686/">Steamcommunity 302</a></p><p>打开后点击设置，界面内勾选Discord语音+，然后保存设置。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2021/07/QQ%E6%88%AA%E5%9B%BE20210723141224-5-300x205.jpg" alt=""></p><p>[title]解决方案2：使用Openwrt直接代理流量[/title]</p><p>前置：你需要有一个安装了openwrt插件的路由器。</p><p>首先配置好你的openwrt并且让电脑连接到对应的网络。</p><p>打开电脑的网络设置，选择你的网络并点击属性。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2021/07/QQ%E6%88%AA%E5%9B%BE20210723161945-224x300.jpg" alt=""></p><p>进入IPv4协议，<a href="http://xn--ip192-oy2iwdq2i.168.0.xxx">ip地址填192.168.0.xxx</a>（随便填）</p><p>子网掩码255.255.255.0</p><p>默认网关填上路由的ip（<a href="http://xn--192-p18dp91ijd9a.168.0.xn--xxx192-r06l.168.1.xxx">一般是192.168.0.xxx或192.168.1.xxx</a>）</p><p>首选DNS也填路由ip</p><p>备用填8.8.8.8或其他的。</p>]]></content>
       
       
       

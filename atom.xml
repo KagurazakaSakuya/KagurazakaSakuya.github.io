@@ -6,7 +6,7 @@
   <link href="https://moesakuya.xyz/atom.xml" rel="self"/>
   
   <link href="https://moesakuya.xyz/"/>
-  <updated>2023-03-11T16:11:41.790Z</updated>
+  <updated>2023-03-28T13:35:54.814Z</updated>
   <id>https://moesakuya.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://moesakuya.xyz/posts/78794583.html"/>
     <id>https://moesakuya.xyz/posts/78794583.html</id>
     <published>2023-01-03T15:02:05.000Z</published>
-    <updated>2023-03-11T16:11:41.790Z</updated>
+    <updated>2023-03-28T13:35:54.814Z</updated>
     
     <content type="html"><![CDATA[<p>[dangerbox title=“劝退”]这个玩意真的是太麻烦了，根据素材的复杂程度及你的需求及你电脑的配置，你可能会花上2～18小时进行制作。</p><p>[/dangerbox]</p><p>[infobox title=“施工中”]本文章正在施工[/infobox]</p><p>[title]一、工具准备[/title]</p><p>准备好PS，AE</p><p>AE中需要装好Auto Sway插件</p><p>如果想要加特效，请选择性添加Saber插件和红巨人插件</p><p>本站不提供资源下载，请到Google自搜</p><p>[title]二、素材寻找[/title]</p><p>搞这个对素材比较讲究哦～</p><p>素材要求：头发越简单越好，各个部位都是相对明显的（比如头发遮住眼睛就需要更多的时间处理），下面放一张例图<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20220102104349.png" alt=""></p><p>背景方面，你可以到Steam寻找（不要动态背景啊啊啊啊啊啊啊啊啊那个我还没有折腾所以不会搞，预计后面会更新动态背景系列的）</p><p>在找到对应的背景后，到<a href="https://steam.design/#https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/339470/08e8b0c66a2ac04a21e1a85034d9cbd024f336d1.png">[title]https://steam.design/[/title]</a></p><p>进行背景切割</p><p>[title]三、素材处理[/title]</p><p>首先，我们要将拿到的人物素材进行处理，这代表着你要移除掉它的背景（如果有），只留下人物。</p><p>因为我们在接下来要将人物需要动的部分处理成单独的部件，所以你需要尽可能地移除掉难以处理的部分，防止最后效果不佳（比如部分难以处理的发丝等可以直接擦掉，尽量不要放着不处理）</p><p>接下来我们就要开始处理所有需要动的部位。</p><p>对于头发，大部分的头发需要一根一根单独抠出来作为部件，部分连贯的可以作为一个整体处理。</p><p>使用套索或钢笔等工具将你想要动的头发抠出来。</p><p>如图。</p><p>处理后隐藏你抠出来的图层。</p><p>并用工具将透明部分进行较为自然的填充。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103151054.png" alt=""></p><p>对于眼部，我们要将眼皮和眼睛抠出来分为两个图层，如图<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103140212.png" alt=""></p><p>两个眼睛都要这样处理，处理后隐藏你抠出来的图层。</p><p>并用工具将透明部分进行较为自然的填充。</p><p>完成后打开AE。</p><p>[title]四、AE处理[/title]</p><p>打开AE后，创建合成，秒数在3以内，帧数30以内。</p><p>到steam库存打开你的背景将链接复制，到<a href="https://steam.design/">https://steam.design/</a>进行填入以获取你个人资料的切割后图片。</p><p>将你的背景，网站提供的图片以及人物的PSD文件一并拖入AE。</p><p>在AE调出AutoSway窗口。</p><p>首先调整你人物的图层顺序（导入后的顺序往往与PS中不同）</p><p>然后将切割后图片及背景图片放入，并将切割后的与背景贴合（最好完全重合）</p><p>然后隐藏背景，将人物拖入，调整大小，并放到你认为合适的位置。</p><p>之后隐藏切割后图片，显示背景。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103184845.png" alt=""></p><p>现在聚焦到眼睛（眼睛和眼皮）（即“独奏”）</p><p>选中“人偶位置控点工具”，这边先处理眼皮。</p><p>在眼皮上均匀标5个点。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103185203.png" alt=""></p><p>然后打开眼皮设置中的“变换”，在0帧设立一个位置的关键帧，然后在你认为合适的位置（建议为6~12帧）将眼皮移动到眼睛一半偏下的位置（如图）。<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103185538.png" alt=""></p><p>然后在相同的间隔后的位置将眼皮移回去。（这步可以直接复制刚开始的帧）</p><p>现在打开网格。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103185932.png" alt=""></p><p>点开五个操控点。并且切到你建立在中间的一帧，做细微调整使其更加自然，并且在最后建立的帧将其复原（可以复制刚开始的帧）</p><p>另外一个眼皮也是一样，这里不再重复。</p><p>现在选中其中一个眼睛，聚焦（独奏）。</p><p>用钢笔将其围住。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103190817.png" alt=""></p><p>然后在0帧建立其位置关键帧，在中间眼皮的同帧位置将其稍微上移（不要暴露底部，底部仍应被眼皮覆盖）</p><p>然后点开蒙版</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103191131.png" alt=""></p><p>在0帧于其蒙版路径处建立关键帧。</p><p>在中间与眼皮同帧位置将其调整如图示（以下简称“中间帧）</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103191401.png" alt=""></p><p>然后在末尾复原（ctrlc v)</p><p>另一个眼睛同样这里不重复。</p><p>现在来调整眉毛，眉毛很简单。</p><p>选中眉毛，变换，在0建立关键帧，中间帧处稍微下移（幅度不要大于眼皮），后面复原。</p><p>对于头发</p><p>首先选中一个头发，右键，预合成，选第二个，并且选中打开新合成，然后确定</p><p>使用人偶位置控点工具，在头发根部添加操控点防止其乱动</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103193553.png" alt=""></p><p>然后在中心部位由上及下标3~5点，这是动的位置。</p><p>选中中心三点，点击autosway窗口的最上面的按钮&quot;apply&quot;</p><p>然后可以在左边调整幅度和频率（频率处根据你的持续时间需要特殊的做设置，你可以稍微摸索一下，2秒建议102 or 204  3秒建议66 or 132）</p><p>然后可以回到合成进行下一步操作。每一个头发都要像上面一样处理。</p><p>对于其他部件or部位，也可以按照上面的操作，年轻人要学会举一反三，这里不多讲。</p><p>现在我们要让整个人动起来，选中人物的所有图层，右键，预合成</p><p>然后回到原来的合成<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103202419.png" alt=""></p><p>用人偶位置控点工具，在腰的位置标3~5点，然后腰部偏上一点，鼻子一点，并且扩展网格到40以上</p><p>选中后来的两点，然后apply autosway，然后调整参数。</p><p><strong>如果你觉得这样就可以了，请跳到下文第七部分，我们会交代最后的处理，如果你想搞特效文字or其他特效，请往下看~</strong></p><p>[title]五、特效文字添加[/title]</p><p>我们这里要用到AE的Saber插件，怎么搞？自己去找！</p><p>首先我们要新建一个文字层，调整好大小选好字体。</p><p>然后新建一个纯色层，然后在右边效果与预设中应用saber到新建的纯色层。</p><p>然后在左边点击自定义主体选择文字图层。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103204029.png" alt=""></p><p>下面的文字图层选择你刚才创建的。</p><p>然后你可以随意选择预设。</p><p>下方的渲染设置中将合成设置调为透明,然后隐藏掉你的文字图层。</p><p>后续想要什么其他效果请举一反三。</p><p>[title]六、施工[/title]</p><p>此项待定</p><p>[title]七、后续操作[/title]</p><p>文件-导出-增加至渲染队列</p><p>开始渲染</p><p>渲染完后打开PS 关AE</p><p>将刚才导出的文件导入PS，将早期切割完后的图像也导入ps，并拖入视频组<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103225112.png" alt=""></p><p>然后将其覆盖，使得可以与背景重合。</p><p>然后取消背景可见，给图层拉辅助线，然后获取你图层的分辨率数据，拉完辅助线后即可将新移入的图层移除（我的用于精选展柜，为630*824）</p><p>进行裁剪。</p><p>然后文件-导出-储存为web所用格式-导出为GIF-储存。</p><p>然后你可以根据我之前教程进行上传（写到这里是深夜了实在懒得动了）</p>]]></content>
     
@@ -246,22 +246,28 @@
     <link href="https://moesakuya.xyz/posts/f1fe911e.html"/>
     <id>https://moesakuya.xyz/posts/f1fe911e.html</id>
     <published>2021-08-09T11:02:34.000Z</published>
-    <updated>2023-03-27T14:56:52.112Z</updated>
+    <updated>2023-03-28T13:38:40.066Z</updated>
     
-    <content type="html"><![CDATA[<p>这几天在steam瞎逛的时候想到了一个有趣的问题：steam会不会早就已经知道我们转区了？</p><p>仔细一想，转区用户其实有非常明显的一些特征：</p><p>1.使用着与本国语言不符的Steam界面语言</p><p>2.有着众多的非本国的Steam好友</p><p>3.说着非本国的语言（即steam聊天等）</p><p>4.仅对账户使用充值卡/市场交易增加其账户余额</p><p>5.登录所使用的IP与本国的IP段不符</p><p>6.在非本国的服务器上下载游戏</p><p>如果只符合上列的几个特征的话是不足以被推断为转区用户的。</p><p>可惜极大部分转区用户完美符合上述所有特征。</p><p>另外不要想着使用代理就能躲避探测，现在已经有成熟的技术来判断你是否使用了代理。</p><p>个人猜测V社已经知道了我们转区的具体情况，但是转区用户太多所以懒得管，枪打出头鸟，猥琐一点应该还是没事的^ ^</p><p>上面的都只是我个人的想法，真正的情况咱可不知道^ ^</p><p>写这篇文章只是提醒各位不要作死</p><p>转区可以，猥琐一点，少薅点羊毛，作死的必吃红信~</p>]]></content>
+    <content type="html"><![CDATA[<p>这几天在steam瞎逛的时候想到了一个有趣的问题：steam会不会早就已经知道我们转区了？</p><p>仔细一想，转区用户其实有非常明显的一些特征：</p><ol><li>使用着与本国语言不符的Steam界面语言</li><li>有着众多的非本国的Steam好友</li><li>说着非本国的语言（即steam聊天等）</li><li>仅对账户使用充值卡/市场交易增加其账户余额</li><li>登录所使用的IP与本国的IP段不符</li><li>在非本国的服务器上下载游戏</li></ol><p>如果只符合上列的几个特征的话是不足以被推断为转区用户的。</p><p>可惜极大部分转区用户完美符合上述所有特征。</p><p>另外不要想着使用代理就能躲避探测，现在已经有成熟的技术来判断你是否使用了代理。</p><p>个人猜测V社已经知道了我们转区的具体情况，但是转区用户太多所以懒得管，枪打出头鸟，猥琐一点应该还是没事的^ ^</p><p>上面的都只是我个人的想法，真正的情况咱可不知道^ ^</p><p>写这篇文章只是提醒各位不要作死</p><p>转区可以，猥琐一点，少薅点羊毛，作死的必吃红信~</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;这几天在steam瞎逛的时候想到了一个有趣的问题：steam会不会早就已经知道我们转区了？&lt;/p&gt;
 &lt;p&gt;仔细一想，转区用户其实有非常明显的一些特征：&lt;/p&gt;
-&lt;p&gt;1.使用着与本国语言不符的Steam界面语言&lt;/p&gt;
-&lt;p&gt;2.有着众多的非本国的Steam好友&lt;/p&gt;
-&lt;</summary>
+&lt;ol&gt;
+&lt;li&gt;使用着与本国语言不符的Steam界面语言&lt;/li&gt;
+&lt;li&gt;有着众多的非本国的Steam好友&lt;/</summary>
       
     
     
     
+    <category term="杂谈" scheme="https://moesakuya.xyz/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://moesakuya.xyz/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="瞎比比" scheme="https://moesakuya.xyz/tags/%E7%9E%8E%E6%AF%94%E6%AF%94/"/>
     
   </entry>
   
@@ -282,28 +288,6 @@
 &lt;p&gt;2.你准备的GIF，至少要超过15帧！！！！！！！！&lt;/p&gt;
 &lt;p&gt;3.你的GIF的大小要合理（注意：长度不建议低于500像素不然容易失败）&lt;/p&gt;
 &lt;p&gt;4.请准</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>在中国大陆如何愉快的使用Discord</title>
-    <link href="https://moesakuya.xyz/posts/17f95104.html"/>
-    <id>https://moesakuya.xyz/posts/17f95104.html</id>
-    <published>2021-07-23T08:24:33.000Z</published>
-    <updated>2023-03-27T14:54:02.464Z</updated>
-    
-    <content type="html"><![CDATA[<p>[infobox title=“提醒”]本文提供两种解决方案哦（第一种最简单，硬核玩家请直接跳第二种^ ^[/infobox]</p><p>[title]解决方案1：使用反代[/title]</p><p>你需要用到<a href="https://www.dogfight360.com/blog/686/">Steamcommunity 302</a></p><p>打开后点击设置，界面内勾选Discord语音+，然后保存设置。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2021/07/QQ%E6%88%AA%E5%9B%BE20210723141224-5-300x205.jpg" alt=""></p><p>[title]解决方案2：使用Openwrt直接代理流量[/title]</p><p>前置：你需要有一个安装了openwrt插件的路由器。</p><p>首先配置好你的openwrt并且让电脑连接到对应的网络。</p><p>打开电脑的网络设置，选择你的网络并点击属性。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2021/07/QQ%E6%88%AA%E5%9B%BE20210723161945-224x300.jpg" alt=""></p><p>进入IPv4协议，<a href="http://xn--ip192-oy2iwdq2i.168.0.xxx">ip地址填192.168.0.xxx</a>（随便填）</p><p>子网掩码255.255.255.0</p><p>默认网关填上路由的ip（<a href="http://xn--192-p18dp91ijd9a.168.0.xn--xxx192-r06l.168.1.xxx">一般是192.168.0.xxx或192.168.1.xxx</a>）</p><p>首选DNS也填路由ip</p><p>备用填8.8.8.8或其他的。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;[infobox title=“提醒”]本文提供两种解决方案哦（第一种最简单，硬核玩家请直接跳第二种^ ^[/infobox]&lt;/p&gt;
-&lt;p&gt;[title]解决方案1：使用反代[/title]&lt;/p&gt;
-&lt;p&gt;你需要用到&lt;a href=&quot;https://www.dogfigh</summary>
       
     
     
