@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>VRChat-如何让你模型的封面更亮</title>
+      <link href="/posts/f09b5724.html"/>
+      <url>/posts/f09b5724.html</url>
+      
+        <content type="html"><![CDATA[<div class="tip "><p>图片比例要求为4：3<br>教程所使用的Unity版本为2019.4.31f1</p></div><h2 id="一、模型处理">一、模型处理</h2><p>首先，将你的模型改好，然后在VRCHAT SDK的Control Panel中build，出现下图界面<br><img src="https://bu.dusays.com/2023/04/05/642cd86d30710.png" alt=""></p><hr><h2 id="二、相机处理">二、相机处理</h2><p>右键左边的<code>VRCCam</code> 新建3D对象<code>四边形</code> 。<br>并调整参数为下图所示。<br><img src="https://bu.dusays.com/2023/04/05/642cdbf334895.png" alt=""><br>在下方Assets放入你的图片，并右键创建一个材质球。<br>Shader选用VRChat的Toon Lit。<br><img src="https://bu.dusays.com/2023/04/05/642cdc337fb49.png" alt=""><br>然后将你的图片拖到材质球里。<br><img src="https://bu.dusays.com/2023/04/05/642cdb00f089b.png" alt=""><br>接下来到<code>Scene</code>(场景内），将材质球拖到四边形上，然后在上传界面启用<code>Upload Image</code>，然后上传即可。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> VRChat </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Steam动态精选艺术作品展柜教程（带特效）</title>
       <link href="/posts/78794583.html"/>
       <url>/posts/78794583.html</url>
@@ -112,9 +141,9 @@
       
         <tags>
             
-            <tag> 技术 </tag>
-            
             <tag> 小技巧 </tag>
+            
+            <tag> 技术 </tag>
             
             <tag> VR </tag>
             
@@ -199,9 +228,9 @@
       
         <tags>
             
-            <tag> 技术 </tag>
-            
             <tag> 小技巧 </tag>
+            
+            <tag> 技术 </tag>
             
             <tag> VR </tag>
             
