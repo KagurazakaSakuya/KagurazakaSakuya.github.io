@@ -8,7 +8,7 @@
       <link href="/posts/78794583.html"/>
       <url>/posts/78794583.html</url>
       
-        <content type="html"><![CDATA[<p>[dangerbox title=“劝退”]这个玩意真的是太麻烦了，根据素材的复杂程度及你的需求及你电脑的配置，你可能会花上2～18小时进行制作。</p><p>[/dangerbox]</p><p>[infobox title=“施工中”]本文章正在施工[/infobox]</p><p>[title]一、工具准备[/title]</p><p>准备好PS，AE</p><p>AE中需要装好Auto Sway插件</p><p>如果想要加特效，请选择性添加Saber插件和红巨人插件</p><p>本站不提供资源下载，请到Google自搜</p><p>[title]二、素材寻找[/title]</p><p>搞这个对素材比较讲究哦～</p><p>素材要求：头发越简单越好，各个部位都是相对明显的（比如头发遮住眼睛就需要更多的时间处理），下面放一张例图<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20220102104349.png" alt=""></p><p>背景方面，你可以到Steam寻找（不要动态背景啊啊啊啊啊啊啊啊啊那个我还没有折腾所以不会搞，预计后面会更新动态背景系列的）</p><p>在找到对应的背景后，到<a href="https://steam.design/#https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/339470/08e8b0c66a2ac04a21e1a85034d9cbd024f336d1.png">[title]https://steam.design/[/title]</a></p><p>进行背景切割</p><p>[title]三、素材处理[/title]</p><p>首先，我们要将拿到的人物素材进行处理，这代表着你要移除掉它的背景（如果有），只留下人物。</p><p>因为我们在接下来要将人物需要动的部分处理成单独的部件，所以你需要尽可能地移除掉难以处理的部分，防止最后效果不佳（比如部分难以处理的发丝等可以直接擦掉，尽量不要放着不处理）</p><p>接下来我们就要开始处理所有需要动的部位。</p><p>对于头发，大部分的头发需要一根一根单独抠出来作为部件，部分连贯的可以作为一个整体处理。</p><p>使用套索或钢笔等工具将你想要动的头发抠出来。</p><p>如图。</p><p>处理后隐藏你抠出来的图层。</p><p>并用工具将透明部分进行较为自然的填充。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103151054.png" alt=""></p><p>对于眼部，我们要将眼皮和眼睛抠出来分为两个图层，如图<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103140212.png" alt=""></p><p>两个眼睛都要这样处理，处理后隐藏你抠出来的图层。</p><p>并用工具将透明部分进行较为自然的填充。</p><p>完成后打开AE。</p><p>[title]四、AE处理[/title]</p><p>打开AE后，创建合成，秒数在3以内，帧数30以内。</p><p>到steam库存打开你的背景将链接复制，到<a href="https://steam.design/">https://steam.design/</a>进行填入以获取你个人资料的切割后图片。</p><p>将你的背景，网站提供的图片以及人物的PSD文件一并拖入AE。</p><p>在AE调出AutoSway窗口。</p><p>首先调整你人物的图层顺序（导入后的顺序往往与PS中不同）</p><p>然后将切割后图片及背景图片放入，并将切割后的与背景贴合（最好完全重合）</p><p>然后隐藏背景，将人物拖入，调整大小，并放到你认为合适的位置。</p><p>之后隐藏切割后图片，显示背景。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103184845.png" alt=""></p><p>现在聚焦到眼睛（眼睛和眼皮）（即“独奏”）</p><p>选中“人偶位置控点工具”，这边先处理眼皮。</p><p>在眼皮上均匀标5个点。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103185203.png" alt=""></p><p>然后打开眼皮设置中的“变换”，在0帧设立一个位置的关键帧，然后在你认为合适的位置（建议为6~12帧）将眼皮移动到眼睛一半偏下的位置（如图）。<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103185538.png" alt=""></p><p>然后在相同的间隔后的位置将眼皮移回去。（这步可以直接复制刚开始的帧）</p><p>现在打开网格。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103185932.png" alt=""></p><p>点开五个操控点。并且切到你建立在中间的一帧，做细微调整使其更加自然，并且在最后建立的帧将其复原（可以复制刚开始的帧）</p><p>另外一个眼皮也是一样，这里不再重复。</p><p>现在选中其中一个眼睛，聚焦（独奏）。</p><p>用钢笔将其围住。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103190817.png" alt=""></p><p>然后在0帧建立其位置关键帧，在中间眼皮的同帧位置将其稍微上移（不要暴露底部，底部仍应被眼皮覆盖）</p><p>然后点开蒙版</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103191131.png" alt=""></p><p>在0帧于其蒙版路径处建立关键帧。</p><p>在中间与眼皮同帧位置将其调整如图示（以下简称“中间帧）</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103191401.png" alt=""></p><p>然后在末尾复原（ctrlc v)</p><p>另一个眼睛同样这里不重复。</p><p>现在来调整眉毛，眉毛很简单。</p><p>选中眉毛，变换，在0建立关键帧，中间帧处稍微下移（幅度不要大于眼皮），后面复原。</p><p>对于头发</p><p>首先选中一个头发，右键，预合成，选第二个，并且选中打开新合成，然后确定</p><p>使用人偶位置控点工具，在头发根部添加操控点防止其乱动</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103193553.png" alt=""></p><p>然后在中心部位由上及下标3~5点，这是动的位置。</p><p>选中中心三点，点击autosway窗口的最上面的按钮&quot;apply&quot;</p><p>然后可以在左边调整幅度和频率（频率处根据你的持续时间需要特殊的做设置，你可以稍微摸索一下，2秒建议102 or 204  3秒建议66 or 132）</p><p>然后可以回到合成进行下一步操作。每一个头发都要像上面一样处理。</p><p>对于其他部件or部位，也可以按照上面的操作，年轻人要学会举一反三，这里不多讲。</p><p>现在我们要让整个人动起来，选中人物的所有图层，右键，预合成</p><p>然后回到原来的合成<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103202419.png" alt=""></p><p>用人偶位置控点工具，在腰的位置标3~5点，然后腰部偏上一点，鼻子一点，并且扩展网格到40以上</p><p>选中后来的两点，然后apply autosway，然后调整参数。</p><p><strong>如果你觉得这样就可以了，请跳到下文第七部分，我们会交代最后的处理，如果你想搞特效文字or其他特效，请往下看~</strong></p><p>[title]五、特效文字添加[/title]</p><p>我们这里要用到AE的Saber插件，怎么搞？自己去找！</p><p>首先我们要新建一个文字层，调整好大小选好字体。</p><p>然后新建一个纯色层，然后在右边效果与预设中应用saber到新建的纯色层。</p><p>然后在左边点击自定义主体选择文字图层。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103204029.png" alt=""></p><p>下面的文字图层选择你刚才创建的。</p><p>然后你可以随意选择预设。</p><p>下方的渲染设置中将合成设置调为透明,然后隐藏掉你的文字图层。</p><p>后续想要什么其他效果请举一反三。</p><p>[title]六、施工[/title]</p><p>此项待定</p><p>[title]七、后续操作[/title]</p><p>文件-导出-增加至渲染队列</p><p>开始渲染</p><p>渲染完后打开PS 关AE</p><p>将刚才导出的文件导入PS，将早期切割完后的图像也导入ps，并拖入视频组<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20230103225112.png" alt=""></p><p>然后将其覆盖，使得可以与背景重合。</p><p>然后取消背景可见，给图层拉辅助线，然后获取你图层的分辨率数据，拉完辅助线后即可将新移入的图层移除（我的用于精选展柜，为630*824）</p><p>进行裁剪。</p><p>然后文件-导出-储存为web所用格式-导出为GIF-储存。</p><p>然后你可以根据我之前教程进行上传（写到这里是深夜了实在懒得动了）</p>]]></content>
+        <content type="html"><![CDATA[<div class="tip warning"><p>这个玩意真的是太麻烦了，根据素材的复杂程度及你的需求及你电脑的配置，你可能会花上2～18小时进行制作。<br>本文章说的内容较为简单，但是如果你追求良好的效果则需要漫长复杂的修改。</p></div><div class="tip info"><p>本文章所提供的额外美化教程仍在施工中<br>本教程默认读者使用精选创意展柜（分辨率630x824） 如果您使用老式展柜请自行调整分辨率</p></div><h2 id="1、工具准备">1、工具准备</h2><p>准备好PS，AE</p><p><strong>AE中需要装好Auto Sway插件(必须条件）</strong></p><p>如果想要加特效，请选择性添加Saber插件和红巨人插件</p><p>本站不提供资源下载，请到Google自搜</p><hr><h2 id="2、素材寻找">2、素材寻找</h2><p>搞这个对素材比较讲究哦～</p><p>素材要求：头发越简单越好，各个部位都是相对明显的（比如头发遮住眼睛就需要更多的时间处理），下面放一张例图<img src="https://bu.dusays.com/2023/04/05/642cde04e75c0.png" alt=""></p><p>背景方面，你可以到Steam寻找（不要动态背景啊啊啊啊啊啊啊啊啊那个我还没有折腾所以不会搞，预计后面会更新动态背景系列的）</p><p>在找到对应的背景后，到<a href="https://steam.design/">https://steam.design/</a></p><p>进行背景切割</p><hr><h2 id="3、素材处理">3、素材处理</h2><p>首先，我们要将拿到的人物素材进行处理，这代表着你要移除掉它的背景（如果有），只留下人物。</p><p>因为我们在接下来要将人物需要动的部分处理成单独的部件，所以你需要尽可能地移除掉难以处理的部分，防止最后效果不佳（比如部分难以处理的发丝等可以直接擦掉，尽量不要放着不处理）</p><p>接下来我们就要开始处理所有需要动的部位。</p><p>对于头发，大部分的头发需要一根一根单独抠出来作为部件，部分连贯的可以作为一个整体处理。</p><p>使用套索或钢笔等工具将你想要动的头发抠出来。</p><p>如图。</p><p>处理后隐藏你抠出来的图层。</p><p>并用工具将透明部分进行较为自然的填充。</p><p><img src="https://bu.dusays.com/2023/04/05/642cdeea96a35.png" alt=""></p><p>对于眼部，我们要将眼皮和眼睛抠出来分为两个图层，如图<img src="https://bu.dusays.com/2023/04/05/642cdf08b3f52.png" alt=""></p><p>两个眼睛都要这样处理，处理后隐藏你抠出来的图层。</p><p>并用工具将透明部分进行较为自然的填充。</p><p>完成后打开AE。</p><hr><h2 id="4、AE处理">4、AE处理</h2><p>打开AE后，创建合成，秒数在3以内，帧数30以内。</p><p>将你的背景，网站提供的图片以及人物的PSD文件一并拖入AE。</p><p>在AE调出<code>AutoSway</code>窗口。</p><p>首先调整你人物的图层顺序（导入后的顺序往往与PS中不同）</p><p>然后将切割后图片及背景图片放入，并将切割后的与背景贴合（最好完全重合）</p><p>然后隐藏背景，将人物拖入，调整大小，并放到你认为合适的位置。</p><p>之后隐藏切割后图片，显示背景。</p><p><img src="https://bu.dusays.com/2023/04/05/642cdf8d99737.png" alt=""></p><h3 id="4-1-对于眼睛">4.1 对于眼睛</h3><p>现在聚焦到眼睛（眼睛和眼皮）（即<code>独奏</code>）</p><p>选中<code>人偶位置控点工具</code>，这边先处理眼皮。</p><p>在眼皮上均匀标5个点。</p><p><img src="https://bu.dusays.com/2023/04/05/642cdfbe170d4.png" alt=""></p><p>然后打开眼皮设置中的<code>变换</code>，在0帧设立一个位置的关键帧，然后在你认为合适的位置（建议为6~12帧）将眼皮移动到眼睛一半偏下的位置（如图）。<img src="https://bu.dusays.com/2023/04/05/642ce00477422.png" alt=""></p><p>然后在相同的间隔后的位置将眼皮移回去。（这步可以直接复制刚开始的帧）</p><p>现在打开<code>网格</code>。</p><p><img src="https://bu.dusays.com/2023/04/05/642ce02b5b9dc.png" alt=""></p><p>点开五个操控点。并且切到你建立在中间的一帧，做细微调整使其更加自然，并且在最后建立的帧将其复原（可以复制刚开始的帧）</p><p>另外一个眼皮也是一样，这里不再重复。</p><p>现在选中其中一个眼睛，聚焦（<code>独奏</code>）。</p><p>用钢笔将其围住。</p><p><img src="https://bu.dusays.com/2023/04/05/642ce04a3d69d.png" alt=""></p><p>然后在0帧建立其位置关键帧，在中间眼皮的同帧位置将其稍微上移（不要暴露底部，底部仍应被眼皮覆盖）</p><p>然后点开<code>蒙版</code></p><p><img src="https://bu.dusays.com/2023/04/05/642ce0594ab29.png" alt=""></p><p>在0帧于其蒙版路径处建立关键帧。</p><p>在中间与眼皮同帧位置将其调整如图示（以下简称<code>中间帧</code>）</p><p>![]<a href="https://bu.dusays.com/2023/04/05/642ce06794017.png">https://bu.dusays.com/2023/04/05/642ce06794017.png</a>)</p><p>然后在末尾复原（ctrlc v)</p><p>另一个眼睛同样这里不重复。</p><p>现在来调整眉毛，眉毛很简单。</p><p>选中眉毛，变换，在0建立关键帧，中间帧处稍微下移（幅度不要大于眼皮），后面复原。</p><h3 id="4-2-对于头发">4.2 对于头发</h3><p>首先选中一个头发，右键，<code>预合成</code>，选第二个，并且选中打开新合成，然后确定</p><p>使用<code>人偶位置控点工具</code>，在头发根部添加操控点防止其乱动</p><p><img src="https://bu.dusays.com/2023/04/05/642ce0cd188a6.png" alt=""></p><p>然后在中心部位由上及下标3~5点，这是动的位置。</p><p>选中中心三点，点击autosway窗口的最上面的按钮<code>apply</code></p><p>然后可以在左边调整幅度和频率（频率处根据你的持续时间需要特殊的做设置，你可以稍微摸索一下，2秒建议102 or 204  3秒建议66 or 132）</p><p>然后可以回到合成进行下一步操作。每一个头发都要像上面一样处理。</p><p>对于其他部件or部位，也可以按照上面的操作，年轻人要学会举一反三，这里不多讲。</p><p>现在我们要让整个人动起来，选中人物的所有图层，右键，<code>预合成</code></p><p>然后回到原来的合成<img src="https://bu.dusays.com/2023/04/05/642ce0d9b6e21.png" alt=""></p><p>用人偶位置控点工具，在腰的位置标3~5点，然后腰部偏上一点，鼻子一点，并且扩展网格到40以上</p><p>选中后来的两点，然后<code>apply autosway</code>，然后调整参数。</p><p><strong>如果你觉得这样就可以了，请跳到下文第七部分，我们会交代最后的处理，如果你想搞特效文字or其他特效，请往下看~</strong></p><hr><h2 id="5、特效文字添加-DLC">5、特效文字添加 [DLC]</h2><p>我们这里要用到AE的Saber插件，怎么搞？自己去找！</p><p>首先我们要新建一个文字层，调整好大小选好字体。</p><p>然后新建一个纯色层，然后在右边效果与预设中应用saber到新建的纯色层。</p><p>然后在左边点击<code>自定义主体</code>选择<code>文字图层</code>。</p><p><img src="https://bu.dusays.com/2023/04/05/642ce1252350e.png" alt=""></p><p>下面的文字图层选择你刚才创建的。</p><p>然后你可以随意选择预设。</p><p>下方的渲染设置中将合成设置调为<code>透明</code>,然后隐藏掉你的文字图层。</p><p>后续想要什么其他效果请举一反三。</p><hr><h2 id="6、施工">6、施工</h2><p>此项待定</p><hr><h2 id="7、后续操作">7、后续操作</h2><p><code>文件</code>-<code>导出</code>-<code>增加至渲染队列</code></p><p>开始渲染</p><p>渲染完后打开PS 关AE</p><p>将刚才导出的文件导入PS，将早期切割完后的图像也导入ps，并拖入视频组<img src="https://bu.dusays.com/2023/04/05/642ce1541cfcf.png" alt=""></p><p>然后将其覆盖，使得可以与背景重合。</p><p>然后取消背景可见，给图层拉辅助线，然后获取你图层的分辨率数据，拉完辅助线后即可将新移入的图层移除（我的用于精选展柜，为630*824）</p><p>进行裁剪。</p><p>然后<code>文件</code>-<code>导出</code>-<code>储存为web所用格式</code>-<code>导出为GIF</code>-<code>储存</code>。<br>到<a href="https://steamcommunity.com/sharedfiles/edititem/767/3/">https://steamcommunity.com/sharedfiles/edititem/767/3/</a>上传。</p><hr><p>##8、图片优化<br>如果你的图像因为大小问题无法成功上传，请到<a href="https://ezgif.com/optimize">https://ezgif.com/optimize</a>上传图像，然后进行压缩。</p>]]></content>
       
       
       
@@ -21,9 +21,23 @@
       <link href="/posts/d8a0ffa.html"/>
       <url>/posts/d8a0ffa.html</url>
       
-        <content type="html"><![CDATA[<p>废话不多说了~</p><p>我知道你很讨厌跳转到curseforge进行安装下载:)</p><p>方法很简单</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/08/QQ%E6%88%AA%E5%9B%BE20220828190138.png" alt=""></p><p>首先，鼠标移到这个按钮上，右键，复制链接地址。</p><p>然后粘贴到地址栏里，这个时候你得到的链接应该是https://www.curseforge.com/minecraft/modpacks/XXXXXXXXX/download?client=y</p><p>你需要做的是，将最后一个字母<strong>y</strong>改为<strong>n</strong>。</p><p>此方法应该也适用于别的玩意。</p><p>（啊，又成功水了一篇文章捏，高三了没时间开大工程了X_X)</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="一、正文">一、正文</h2><p>废话不多说了~</p><p>我知道你很讨厌跳转到curseforge进行安装下载:)</p><p>方法很简单</p><p><img src="https://bu.dusays.com/2023/04/05/642cdd229f4a6.png" alt=""></p><p>首先，鼠标移到这个按钮上，右键，复制链接地址。</p><p>然后粘贴到地址栏里，这个时候你得到的链接应该是https://www.curseforge.com/minecraft/modpacks/XXXXXXXXX/download?client=y</p><p>你需要做的是，将最后一个字母<strong>y</strong>改为<strong>n</strong>。</p><p>此方法应该也适用于别的玩意。</p><p>（啊，又成功水了一篇文章捏，高三了没时间开大工程了X_X)</p>]]></content>
       
       
+      <categories>
+          
+          <category> 小技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 小技巧 </tag>
+            
+            <tag> MC </tag>
+            
+        </tags>
       
     </entry>
     
@@ -61,9 +75,21 @@
       <link href="/posts/b52fcd87.html"/>
       <url>/posts/b52fcd87.html</url>
       
-        <content type="html"><![CDATA[<p>[title]一、前言[/title]</p><p>因为teamviewer的VPN联机方式有时候不稳定，于是我又找了个新的P2P联机方式。。。</p><p>这个软件要比Teamviewer稳定得多，而且使用起来十分简单。</p><p>如果你想成为虚拟网络的主机（即管理员，请直接跳到下面的管理员篇。</p><p>[title]二、用户篇-软件下载+使用[/title]</p><p>首先进入<a href="https://www.zerotier.com/">https://www.zerotier.com/</a></p><p>点Download下载软件，安装并打开。</p><p>它会出现在你的托盘图标里，右键它，点Join New Network。</p><p>然后向你的亲爱的好朋友管理员SAMA索要network ID 并输入就可以啦~</p><p>记得之后让你的亲爱的好朋友管理员SAMA在管理界面对你进行验证喔！</p><p>[title]三、管理者篇-软件下载+虚拟网搭建[/title]</p><p>首先进入<a href="https://www.zerotier.com/">https://www.zerotier.com/</a></p><p>点右上角的Sign Up 注册并登录你的账号。</p><p>然后你会进入到管理页面，此时点击上方的create a network。</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/06/QQ%E6%88%AA%E5%9B%BE20220621235631.png" alt=""></p><p>之后记住你的network id。</p><p>现在回到官网，下载zerotier软件并打开</p><p>右键，点击Join new network</p><p>之后输入你的network ID并加入。</p><p>现在到管理界面，点进去你刚创建完的网络</p><p>对你和你的用户进行认证。（到这步的时候记得让你的朋友加入网络！！！！！</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/06/QQ%E6%88%AA%E5%9B%BE20220622000112.png" alt=""></p><p>然后，Have Fun！</p><p>你可以ping你的朋友测试连通性哦~ （记得使用Zerotier提供给你的IP</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="一、前言">一、前言</h2><p>因为teamviewer的VPN联机方式有时候不稳定，于是我又找了个新的P2P联机方式。。。</p><p>这个软件要比Teamviewer稳定得多，而且使用起来十分简单。</p><p>如果你想成为虚拟网络的主机（即管理员，请直接跳到下面的管理员篇。</p><hr><h2 id="二、用户篇-软件下载-使用">二、用户篇-软件下载+使用</h2><p>首先进入<a href="https://www.zerotier.com/">https://www.zerotier.com/</a></p><p>点Download下载软件，安装并打开。</p><p>它会出现在你的托盘图标里，右键它，点<code>Join New Network</code>。</p><p>然后向你的亲爱的好朋友管理员SAMA索要network ID 并输入就可以啦~</p><p>记得之后让你的亲爱的好朋友管理员SAMA在管理界面对你进行验证喔！</p><hr><h2 id="三、管理者篇-软件下载-虚拟网搭建">三、管理者篇-软件下载+虚拟网搭建</h2><p>首先进入<a href="https://www.zerotier.com/">https://www.zerotier.com/</a></p><p>点右上角的<code>Sign Up</code> 注册并登录你的账号。</p><p>然后你会进入到管理页面，此时点击上方的<code>create a network</code>。</p><p><img src="https://bu.dusays.com/2023/04/05/642ce2adcd6f7.png" alt=""></p><p>之后记住你的network id。</p><p>现在回到官网，下载zerotier软件并打开</p><p>右键，点击<code>Join new network</code></p><p>之后输入你的network ID并加入。</p><p>现在到管理界面，点进去你刚创建完的网络</p><p>对你和你的用户进行认证。（到这步的时候记得让你的朋友加入网络！！！！！</p><p><img src="https://bu.dusays.com/2023/04/05/642ce2c74a90d.png" alt=""></p><p>然后，Have Fun！</p><p>你可以ping你的朋友测试连通性哦~ （记得使用Zerotier提供给你的IP</p>]]></content>
       
       
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -88,9 +114,9 @@
             
             <tag> 小技巧 </tag>
             
-            <tag> VR </tag>
-            
             <tag> 技术 </tag>
+            
+            <tag> VR </tag>
             
             <tag> 项目推荐 </tag>
             
@@ -105,22 +131,25 @@
       <link href="/posts/643222e3.html"/>
       <url>/posts/643222e3.html</url>
       
-        <content type="html"><![CDATA[<p>[infobox title=“提示”]准备好抓包工具，它可以是wireshark，也可以是fiddler之类的</p><p>教程用的Wireshark[/infobox]</p><p>[dangerbox title=“注意”]此方法仅适用于作辅助判断，亦或是你好奇，不建议打扰Demo中的任何人。[/dangerbox]</p><p>[title]一、抓包[/title]</p><p>首先，打开抓包工具和游戏，并开始抓包，然后点击CSGO监管内的下载，此时进行抓包，类型是HTTP，<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20220131164337.png" alt=""></p><p>INFO的前面会有GET /142这些内容</p><p>找到这玩意后你就可以获取到真实的DEMO下载地址（如下图</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20220131164557.png" alt=""></p><p>下载demo后你就可以在游戏里看咧~</p><p>===以下内容针对不会看DEMO的笨比萌新~===</p><p>游戏内按Shift+F2</p><p>点load，然后选中下载的demo~</p><p>==================================</p><p>注意！你最好先看监管提供的demo，再观看真实DEMO以作对照</p>]]></content>
+        <content type="html"><![CDATA[<div class="tip "><p>准备好抓包工具，它可以是wireshark，也可以是fiddler之类的。教程用的Wireshark</p></div><div class="tip warning"><p>此方法仅适用于作辅助判断，亦或是你好奇，不建议打扰Demo中的任何人。</p></div><h2 id="一、抓包">一、抓包</h2><p>首先，打开抓包工具和游戏，并开始抓包，然后点击CSGO监管内的下载，此时进行抓包，类型是HTTP，<img src="https://bu.dusays.com/2023/04/05/642ce34937377.png" alt=""></p><p>INFO的前面会有<code>GET /142</code>这些内容</p><p>找到这玩意后你就可以获取到真实的DEMO下载地址（如下图</p><p><img src="https://bu.dusays.com/2023/04/05/642ce35d9acbb.png" alt=""></p><p>下载demo后你就可以在游戏里看咧~</p><details class="folding-tag" cyan close><summary> 我不会看demo怎么办 </summary>              <div class='content'>              <p>…什么，你不知道怎么看demo？</p><p>游戏内按Shift+F2</p><p>点load，然后选中下载的demo~</p>              </div>            </details><p>注意！你最好先看监管提供的demo，再观看真实DEMO以作对照</p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>使用虚拟局域网让P2P联机更加舒适</title>
-      <link href="/posts/2db1f783.html"/>
-      <url>/posts/2db1f783.html</url>
-      
-        <content type="html"><![CDATA[<p>[infobox title=“前言及材料准备”]这种联机方法真的很好用，但是没想到好多人还不知道。。</p><p>低人数的联机用这种方法真的要比开服务器好太多了。（指性价比方面</p><p>软件是teamviewer[/infobox]</p><p>[title]一、软件安装[/title]</p><p>到Teamviewer官网下载安装程序。</p><p>安装时<strong>请启用“高级安装选项”</strong></p><p>并在之后的界面<strong>勾选“启用VPN”</strong></p><p>[title]二、组网[/title]</p><p>我觉得最烦人的一步就是注册账户了，想使用teamviewer的话，客户端的机器必须要有账户并登录，好烦啊啊啊（小声BB）</p><p>获取服务端机器的ID和密码，并切换到VPN模式进行连接<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20220131162404.png" alt=""></p><p>连接后客户端将得到自身IP，同时服务端可以在右下角查看客户端IP</p><p>此时如果游戏就是纯P2P类联机，则可直接跟朋友进行联机，你会发现体验明显得到改善（如果无效果请重启游戏或重新连接</p><p>另外，服务端的网络一定要够顶（网线连接！！</p><p>如果无法直接进入（ip输入连接类），那么可以输入对方IP进行联机</p>]]></content>
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
       
       
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+            <tag> CS:GO </tag>
+            
+            <tag> 网络 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -131,9 +160,23 @@
       <link href="/posts/a971d3b2.html"/>
       <url>/posts/a971d3b2.html</url>
       
-        <content type="html"><![CDATA[<p>[infobox title=“注意”]本文章中所使用的全身追踪只能保证追踪，在VRCHAT跳舞之类的还是别想了。。。</p><p>如果真的要更好的追踪效果，还请上Vive tracker之类的跟踪器（真的好贵[/infobox]</p><p>[title]一、设备准备[/title]</p><p>至少3部手机（越多越好，某鱼一部小米只要50），或者至少3个由可以记录位置的芯片制成的电路板（例如MPU6050）</p><p>如果你想用电路板，你可以到某宝购买成品或者自制（教程自搜~</p><p>绑定工具（这些设备要绑到你身上）</p><p>[title]二、软件操作[/title]</p><p>保证电脑和追踪设备在同一网络内</p><p>电脑端：下载SlimeVR服务端，<a href="https://github.com/SlimeVR/SlimeVR-Server">这里</a>是其Github项目地址，你可以按照里面说明将配置文件增加到SteamVR中</p><p>打开服务端并进入手机的操作</p><p>手机端：打开<a href="https://moesakuya.xyz/wp-content/uploads/2022/01/org.ovrgyrotrackersync.zip">OwOtracker</a></p><p>下方Connect，输入你电脑本地IP（不知道请在cmd中输入ipconfig查看）</p><p>点击Connect即可连接</p><p>电路板端（只提供基于ESP类的设备的教程）：打开追踪器，并在手机打开<a href="https://moesakuya.xyz/wp-content/uploads/2022/01/com.espressif.esptouch.android.zip">ESPtouch</a></p><p>确保手机连接到2.4Ghz的WIFI，并选择EspTouch（不是V2！！！</p><p>输入指定的WIFI密码和设备数量，并点确认（进行配对时确保手机亮屏，且不要退出软件</p><p>配对成功后进入下一步操作</p><p>[title]三、部位设置及SteamVR内追踪器的校准[/title]</p><p>连接成功后，在电脑服务端可以看到设备信息（这里以一个设备为例）<img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20220102102457.png" alt=""></p><p>在None处可以选择对应的部位，后面的地方请选用forward</p><p>以下是所需设备及对应的部位表</p><p>3设备：WAIST LEFT_ANKLE RIGHT_ANKLE</p><p>5设备：WAIST LEFT_ANKLE RIGHT_ANKLE LEFT_LEG RIGHT_LEG</p><p>6设备：WAIST LEFT_ANKLE RIGHT_ANKLE LEFT_LEG RIGHT_LEG CHEST（请在右边STEAMVR TRACKER将chest打勾）</p><p>8设备：WAIST LEFT_ANKLE RIGHT_ANKLE LEFT_LEG RIGHT_LEG CHEST LEFT_FOOT RIGHT_FOOT</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2022/01/QQ%E6%88%AA%E5%9B%BE20220102103049.png" alt=""></p><p>请把设备按图上位置固定好（竖着放）</p><p>固定好后，保持标准站立姿势，到电脑服务端点击上方的RESET，即可完成数据重置。</p><p>注意：为了防止漂移，你最好每10~30分钟在服务端点击RESET一次</p><p>这样子全身跟踪基本就完成了，可以到支持全身跟踪的VR游戏试试了！</p><p>[infobox title=“Bug解决”]1.如果你发现你的游戏内的身体部位的移动与你现实中是相反的，请在服务端将部位的forward改成BACK</p><p>2.如果连不上服务端，确认设备与服务端处于同一网络，并重启服务端重试[/infobox]</p>]]></content>
+        <content type="html"><![CDATA[<p>&lt;!–swig￼0–&gt;</p><h2 id="一、设备准备">一、设备准备</h2><p>至少3部手机（越多越好，某鱼一部小米只要50），或者至少3个由可以记录位置的芯片制成的电路板（例如MPU6050）</p><p>如果你想用电路板，你可以到某宝购买成品或者自制（教程自搜~</p><p>绑定工具（这些设备要绑到你身上）</p><h2 id="二、软件操作">二、软件操作</h2><p>保证电脑和追踪设备在同一网络内</p><p>电脑端：下载SlimeVR服务端，<a href="https://github.com/SlimeVR/SlimeVR-Server">这里</a>是其Github项目地址，你可以按照里面说明将配置文件增加到SteamVR中</p><p>打开服务端并进入手机的操作</p><p>手机端：打开OwOtracker （没有就去下~）</p><p>下方<code>Connect</code>，输入你电脑本地IP（不知道请在cmd中输入<code>ipconfig</code>查看）</p><p>点击<code>Connect</code>即可连接</p><p>电路板端（只提供基于ESP类的设备的教程）：打开追踪器，并在手机打开ESPtouch (没有就去下~）</p><p>确保手机连接到2.4Ghz的WIFI，并选择<code>EspTouch</code>（不是V2！！！</p><p>输入指定的WIFI密码和设备数量，并点确认（进行配对时确保手机亮屏，且不要退出软件</p><p>配对成功后进入下一步操作</p><h2 id="三、部位设置及SteamVR内追踪器的校准">三、部位设置及SteamVR内追踪器的校准</h2><p>连接成功后，在电脑服务端可以看到设备信息（这里以一个设备为例）<img src="https://bu.dusays.com/2023/04/05/642ce43fb17b7.png" alt=""></p><p>在<code>None</code>处可以选择对应的部位，后面的地方请选用<code>forward</code></p><p>以下是所需设备及对应的部位表</p><p>3设备：WAIST LEFT_ANKLE RIGHT_ANKLE</p><p>5设备：WAIST LEFT_ANKLE RIGHT_ANKLE LEFT_LEG RIGHT_LEG</p><p>6设备：WAIST LEFT_ANKLE RIGHT_ANKLE LEFT_LEG RIGHT_LEG CHEST（请在右边STEAMVR TRACKER将chest打勾）</p><p>8设备：WAIST LEFT_ANKLE RIGHT_ANKLE LEFT_LEG RIGHT_LEG CHEST LEFT_FOOT RIGHT_FOOT</p><p><img src="https://bu.dusays.com/2023/04/05/642ce455abc66.png" alt=""></p><p>请把设备按图上位置固定好（竖着放）</p><p>固定好后，保持标准站立姿势，到电脑服务端点击上方的<code>RESET</code>，即可完成数据重置。</p><p>注意：为了防止漂移，你最好每10~30分钟在服务端点击<code>RESET</code>一次</p><p>这样子全身跟踪基本就完成了，可以到支持全身跟踪的VR游戏试试了！</p><div class="tip cogs"><p>1.如果你发现你的游戏内的身体部位的移动与你现实中是相反的，请在服务端将部位的forward改成BACK</p><p>2.如果连不上服务端，确认设备与服务端处于同一网络，并重启服务端重试</p></div>]]></content>
       
       
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VR </tag>
+            
+            <tag> 技术教程 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -158,9 +201,9 @@
             
             <tag> 小技巧 </tag>
             
-            <tag> VR </tag>
-            
             <tag> 技术 </tag>
+            
+            <tag> VR </tag>
             
             <tag> 项目推荐 </tag>
             
@@ -175,7 +218,7 @@
       <link href="/posts/f1fe911e.html"/>
       <url>/posts/f1fe911e.html</url>
       
-        <content type="html"><![CDATA[<p>这几天在steam瞎逛的时候想到了一个有趣的问题：steam会不会早就已经知道我们转区了？</p><p>仔细一想，转区用户其实有非常明显的一些特征：</p><ol><li>使用着与本国语言不符的Steam界面语言</li><li>有着众多的非本国的Steam好友</li><li>说着非本国的语言（即steam聊天等）</li><li>仅对账户使用充值卡/市场交易增加其账户余额</li><li>登录所使用的IP与本国的IP段不符</li><li>在非本国的服务器上下载游戏</li></ol><p>如果只符合上列的几个特征的话是不足以被推断为转区用户的。</p><p>可惜极大部分转区用户完美符合上述所有特征。</p><p>另外不要想着使用代理就能躲避探测，现在已经有成熟的技术来判断你是否使用了代理。</p><p>个人猜测V社已经知道了我们转区的具体情况，但是转区用户太多所以懒得管，枪打出头鸟，猥琐一点应该还是没事的^ ^</p><p>上面的都只是我个人的想法，真正的情况咱可不知道^ ^</p><p>写这篇文章只是提醒各位不要作死</p><p>转区可以，猥琐一点，少薅点羊毛，作死的必吃红信~</p>]]></content>
+        <content type="html"><![CDATA[<div class="tip "><p>这几天在steam瞎逛的时候想到了一个有趣的问题：steam会不会早就已经知道我们转区了？</p></div><p>仔细一想，转区用户其实有非常明显的一些特征：</p><ol><li>使用着与本国语言不符的Steam界面语言</li><li>有着众多的非本国的Steam好友</li><li>说着非本国的语言（即steam聊天等）</li><li>仅对账户使用充值卡/市场交易增加其账户余额</li><li>登录所使用的IP与本国的IP段不符</li><li>在非本国的服务器上下载游戏</li></ol><p>如果只符合上列的几个特征的话是不足以被推断为转区用户的。</p><p>可惜极大部分转区用户完美符合上述所有特征。</p><p>另外不要想着使用代理就能躲避探测，现在已经有成熟的技术来判断你是否使用了代理。</p><p>个人猜测V社已经知道了我们转区的具体情况，但是转区用户太多所以懒得管，枪打出头鸟，猥琐一点应该还是没事的^ ^</p><p>上面的都只是我个人的想法，真正的情况咱可不知道^ ^</p><p>写这篇文章只是提醒各位不要作死</p><p>转区可以，猥琐一点，少薅点羊毛，作死的必吃红信~</p>]]></content>
       
       
       <categories>
@@ -215,9 +258,23 @@
       <link href="/posts/58a1ebb6.html"/>
       <url>/posts/58a1ebb6.html</url>
       
-        <content type="html"><![CDATA[<h3 id="提醒">提醒</h3><p>这个真的是最简单的教程了qwq</p><p>1.准备好一张gif（是gif就行！）</p><p>2.Steam必须到达10级</p><h2 id="一、截图上传">一、截图上传</h2><p>1.到http://steamcommunity.com/sharedfiles/edititem/767/3/</p><p>2.右键点审查元素（快捷键F12）</p><p>3.复制以下代码</p><p>document.getElementsByName(“file_type”)[0].value = 5; 4.到审查元素的控制台（Console）粘贴代码并回车</p><p>5.上传截图</p><p>6.到个人资料设置即可</p>]]></content>
+        <content type="html"><![CDATA[<div class="tip info"><p>1.准备好一张gif（图片也行！）</p><p>2.Steam必须到达10级</p></div><h2 id="一、截图上传">一、截图上传</h2><p>1.到<a href="http://steamcommunity.com/sharedfiles/edititem/767/3/">http://steamcommunity.com/sharedfiles/edititem/767/3/</a></p><p>2.右键点<code>审查元素</code>（快捷键F12）</p><p>3.复制以下代码</p><p>document.getElementsByName(“file_type”)[0].value = 5;</p><p>4.到审查元素的控制台（Console）粘贴代码并回车</p><p>5.上传截图</p><p>6.到个人资料设置即可</p>]]></content>
       
       
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Steam </tag>
+            
+            <tag> 技术 </tag>
+            
+        </tags>
       
     </entry>
     
