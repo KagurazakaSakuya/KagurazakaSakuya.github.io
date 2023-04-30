@@ -274,9 +274,23 @@
       <link href="/posts/39acea07.html"/>
       <url>/posts/39acea07.html</url>
       
-        <content type="html"><![CDATA[<p>[dangerbox title=“注意！！”]</p><p>1.你的STEAM需要到10级</p><p>2.你准备的GIF，至少要超过15帧！！！！！！！！</p><p>3.你的GIF的大小要合理（注意：长度不建议低于500像素不然容易失败）</p><p>4.请准备一个二进制编辑器（这里推荐010 editor）</p><p>[/dangerbox]</p><p>[title]一、GIF处理[/title]</p><p>打开你photoshop</p><p>点“图像——图像大小”将图像分辨率改为一个合理的数字（如果你的图像很奇怪的话</p><p>然后点“视图——新建参考线版面”，列数4。</p><p>然后用裁剪工具下拉至少100像素。</p><p>然后用裁剪工具剪出第一部分，点“文件——导出——储存为Web所用格式（旧版）”，剩下三个以此类推。</p><p>进入<a href="https://ezgif.com/maker">https://ezgif.com/maker</a></p><p>将GIF上传并开始制作，点Make a GIF,然后在下面的那一行按钮中点optimize，下拉点optimize GIF!</p><p>然后在下方按钮中点Save</p><p>四张GIF都要过一遍。</p><p>[title]二、二进制编辑器登场！[/title]</p><p>将做完的四个GIF全部拖入二进制编辑器（拖不进去就用010 editor打开），点“搜索——替换”。</p><p>在网上找一个十六进制转换器，输入原图像高度转换为16进制。</p><p>将第一行的6-9列替换（这时候就要用到原PS内GIF的高度了，记住它）</p><p>例：我的是A1 00 2F 02，原449像素图像转换得到1c1，所以要先变成为A1 00 01 c1，然后调转宽度，最后变为A1 00 c1 01.</p><p>然后点全部替换，然后保存（剩三四个同样的操作）。</p><p>[title]三、上传作品[/title]</p><p>进入https://steamcommunity.com/sharedfiles/edititem/767/3/</p><p>复制以下代码：</p><p>$J(‘#ConsumerAppID’).val(480),$J(‘[name=file_type]’).val(0),$J(‘[name=visibility]’).val(0);</p><p>F12打开审查元素-进console，将复制的代码输入后回车，选中上传的GIF进行上传.</p><p>到你的个人资料，编辑个人资料，展柜选择“您的创意工坊展柜”上传即可。</p><p><strong>最后！！！！以防万一！</strong></p><p><strong>确保你每次上传完GIF后都将界面刷新，并且重新输入代码！</strong></p><p>如果还是出现问题，你可以联系我，我可以帮助你解决^ ^</p><p>[title]四、交作业喵[/title]</p><p>咱的作业：<a href="https://steamcommunity.com/id/KagurazakaSakuya/">https://steamcommunity.com/id/KagurazakaSakuya/</a></p><p>效果图</p><p><img src="https://moesakuya.xyz/wp-content/uploads/2021/07/QQ%E6%88%AA%E5%9B%BE20210731181013.jpg" alt=""> <img src="https://moesakuya.xyz/wp-content/uploads/2021/07/QQ%E6%88%AA%E5%9B%BE20210731181005.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[<div class="tip warning"><p>1.你的STEAM需要到10级</p><p>2.你准备的GIF，至少要超过15帧！！！！！！！！</p><p>3.你的GIF的大小要合理（注意：长度不建议低于500像素不然容易失败）</p><p>4.请准备一个二进制编辑器（这里推荐010 editor）</p></div><h2 id="一、GIF处理">一、GIF处理</h2><p>打开你photoshop</p><p>点“图像——图像大小”将图像分辨率改为一个合理的数字（如果你的图像很奇怪的话</p><p>然后点“视图——新建参考线版面”，列数4。</p><p>然后用裁剪工具下拉至少100像素。</p><p>然后用裁剪工具剪出第一部分，点“文件——导出——储存为Web所用格式（旧版）”，剩下三个以此类推。</p><p>进入<a href="https://ezgif.com/maker">https://ezgif.com/maker</a></p><p>将GIF上传并开始制作，点Make a GIF,然后在下面的那一行按钮中点optimize，下拉点optimize GIF!</p><p>然后在下方按钮中点Save</p><p>四张GIF都要过一遍。</p><h2 id="二、二进制编辑器登场！">二、二进制编辑器登场！</h2><p>将做完的四个GIF全部拖入二进制编辑器（拖不进去就用010 editor打开），点“搜索——替换”。</p><p>在网上找一个十六进制转换器，输入原图像高度转换为16进制。</p><p>将第一行的6-9列替换（这时候就要用到原PS内GIF的高度了，记住它）</p><p>例：我的是A1 00 2F 02，原449像素图像转换得到1c1，所以要先变成为A1 00 01 c1，然后调转宽度，最后变为A1 00 c1 01.</p><p>然后点全部替换，然后保存（剩三四个同样的操作）。</p><h2 id="三、上传作品">三、上传作品</h2><p>进入https://steamcommunity.com/sharedfiles/edititem/767/3/</p><p>复制以下代码：</p><p><code>$J('#ConsumerAppID').val(480),$J('\[name=file\_type\]').val(0),$J('\[name=visibility\]').val(0);</code></p><p>F12打开审查元素-进console，将复制的代码输入后回车，选中上传的GIF进行上传.</p><p>到你的个人资料，编辑个人资料，展柜选择“您的创意工坊展柜”上传即可。</p><p><strong>最后！！！！以防万一！</strong></p><p><strong>确保你每次上传完GIF后都将界面刷新，并且重新输入代码！</strong></p><p>如果还是出现问题，你可以联系我，我可以帮助你解决^ ^</p><h2 id="四、交作业喵">四、交作业喵</h2><p>咱的作业：<a href="https://steamcommunity.com/id/KagurazakaSakuya/">https://steamcommunity.com/id/KagurazakaSakuya/</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Steam </tag>
+            
+            <tag> 美化 </tag>
+            
+        </tags>
       
     </entry>
     
