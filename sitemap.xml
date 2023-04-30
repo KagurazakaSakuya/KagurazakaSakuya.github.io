@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://moesakuya.xyz/posts/39acea07.html</loc>
+    <loc>https://moesakuya.xyz/changelog/index.html</loc>
     
     <lastmod>2023-04-30</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/changelog/index.html</loc>
+    <loc>https://moesakuya.xyz/posts/39acea07.html</loc>
     
-    <lastmod>2023-04-17</lastmod>
+    <lastmod>2023-04-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/personal/love/index.html</loc>
+    <loc>https://moesakuya.xyz/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/social/fcircle/index.html</loc>
+    <loc>https://moesakuya.xyz/personal/love/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
