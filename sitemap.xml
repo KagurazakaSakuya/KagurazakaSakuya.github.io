@@ -209,6 +209,15 @@
   </url>
   
   <url>
+    <loc>https://moesakuya.xyz/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://moesakuya.xyz/box/gallery/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -227,6 +236,15 @@
   </url>
   
   <url>
+    <loc>https://moesakuya.xyz/life/games/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://moesakuya.xyz/life/movies/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -236,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/life/games/index.html</loc>
+    <loc>https://moesakuya.xyz/personal/bb/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -255,15 +273,6 @@
   
   <url>
     <loc>https://moesakuya.xyz/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://moesakuya.xyz/personal/bb/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -291,15 +300,6 @@
   
   <url>
     <loc>https://moesakuya.xyz/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://moesakuya.xyz/box/animation/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -356,20 +356,6 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2023-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://moesakuya.xyz/tags/%E7%9E%8E%E6%AF%94%E6%AF%94/</loc>
-    <lastmod>2023-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-05-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -384,14 +370,28 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://moesakuya.xyz/tags/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2023-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/</loc>
+    <loc>https://moesakuya.xyz/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://moesakuya.xyz/tags/%E7%9E%8E%E6%AF%94%E6%AF%94/</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -412,6 +412,13 @@
   </url>
   
   <url>
+    <loc>https://moesakuya.xyz/tags/MC/</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://moesakuya.xyz/tags/Markdown/</loc>
     <lastmod>2023-05-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -420,13 +427,6 @@
   
   <url>
     <loc>https://moesakuya.xyz/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://moesakuya.xyz/tags/MC/</loc>
     <lastmod>2023-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
