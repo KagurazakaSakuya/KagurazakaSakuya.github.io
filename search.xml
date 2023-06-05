@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>VRChat-无追踪器全身跟踪模拟设置教程</title>
+      <link href="//vrcfbt.html"/>
+      <url>//vrcfbt.html</url>
+      
+        <content type="html"><![CDATA[<div class="tip warning"><p>1.作者所用设备为Quest2 不保证所有设备都能完美使用</p><p>2.有技术问题请尽量在官方Discord发帖</p><p>3.确保SteamVR为BETA版本</p></div><h1>前言</h1><p>本教程基于官方商店内的教学视频以及软件介绍，为了更加方便大聪明使用，本大聪明贴心将教程视频内容拆分成文字并把贴士扯了下来供各位大聪明参考。<br>本教程可能有错（肯定没有错！） 欢迎纠正以及补充。</p><h1>正文</h1><h2 id="一、软件购买及设置调整">一、软件购买及设置调整</h2><p>到<a href="https://store.steampowered.com/app/2370570/Standable_Full_Body_Estimation/">https://store.steampowered.com/app/2370570/Standable_Full_Body_Estimation/</a> 购买软件，并且打开它。</p><p>接下来到SteamVR设置中选中<code>启动/关闭</code>一项，到<code>管理加载项</code>中打开standable（如果默认为开启，则关闭再开一遍。<br><img src="https://bu.dusays.com/2023/06/05/647dcb64aa436.png" alt="QQ截图20230605194713.png"></p><p>接下来到<code>控制器</code>点击<code>管理定位器</code>，为每一个tracker绑定部位。<br>应该会有大聪明不懂英语，这边放个小表。<br>Chest-胸<br>Elbow-肘<br>Foot-脚<br>Knee-膝<br>Waist-腰<br>Left-左<br>Right-右<br>最后一项大长串的不需要设置 禁用即可。</p><h2 id="二、VR内矫正">二、VR内矫正</h2><p>现在我需要你到VR中<strong>设置好高度</strong>（很重要很重要很重要）<br>高度设置完成后你的VR画面应该是这样的。<br><img src="https://bu.dusays.com/2023/06/05/647dcdcfbfc6f.png" alt="QQ截图20230605195510.png"></p><p>现在我需要你把你的手柄放在地上来自动在软件内设置高度。<br>然后拿起手柄摆T字姿势，两手同时向下翻（可以理解成点赞👍翻转成点踩👎）<br>校准过后中央的标志应该是消失的。</p><h2 id="三、游戏内设置-矫正">三、游戏内设置&amp;矫正</h2><p>打开VRChat，进入世界后点击手持菜单的<code>Calibrate FBT</code> 然后进行校准（双手摆成T字然后同时点击左右扳机。</p><p>然后就可以啦！</p><h2 id="使用小技巧以及Q-A">使用小技巧以及Q&amp;A</h2><ul><li>首先呢无论出现什么问题你的优先选择都是官方Discord群组，软件所打开的窗口已经给予了群组邀请链接</li><li>请牢记你有2小时内的无理由退款权利。</li><li>请在VRChat中按照下图进行设置以防出现问题（正常来讲不设置问题应该也不大）</li><li>该软件在离地板大概有一个椅子的位置（也就是坐姿）表现极差，所以建议将地板设置的高一点直接坐着玩（比如在床上）</li><li>站姿状态下不断左右摇晃以使两腿张开，前后也可以这样<br><img src="https://bu.dusays.com/2023/06/05/647dd10362eaa.png" alt="vrc_IK_settings.png"></li></ul><p>Q：运作正常，但是我这人物tmd腿怎么成一根棍子了？！！！  （双腿并在一起）<br>A：坐姿大概率是这样的，目前没有特别好的解决办法，如果是站姿的话尝试左右晃动</p><p>Q：你大爷！这姿势都成麻花了，怎么重新校准啊？！ （重新校准）<br>A：如果你在游戏中，点击<code>Calibrate FBT</code>，然后切出steam菜单，摆T字并由踩的姿势变为赞的姿势，然后重复上面校准操作。如果你在设置过程中就以及偏移成异形了，那么直接多次重新校准直到位置大概准确</p><p>Q：Tracker的位置太nm怪了是怎么回事？  （tracker位置与真实位置不符）<br>A：重新校准</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+            <tag> VR </tag>
+            
+            <tag> VRchat </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>VRChat-如何让你模型的封面更亮</title>
       <link href="/posts/f09b5724.html"/>
       <url>/posts/f09b5724.html</url>
@@ -141,9 +170,9 @@
       
         <tags>
             
-            <tag> 技术 </tag>
-            
             <tag> 小技巧 </tag>
+            
+            <tag> 技术 </tag>
             
             <tag> VR </tag>
             
@@ -228,9 +257,9 @@
       
         <tags>
             
-            <tag> 技术 </tag>
-            
             <tag> 小技巧 </tag>
+            
+            <tag> 技术 </tag>
             
             <tag> VR </tag>
             
