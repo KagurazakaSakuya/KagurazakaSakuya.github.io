@@ -1,0 +1,12 @@
+@font-face {
+    /* Ϊ���������ȡ����(����) */
+    font-family: 'ZhuziAwan';
+    /* �����ļ���ַ(��Ի��߾���·��������) */
+    src: url(/font/ZhuZiAWan2.woff2);
+    /* ����Ӵ���ʽ(�Ӵֶ���) */
+    font-weight: normal;
+    /* ����������ʽ(б��/��б��) */
+    font-style: normal;
+    /* ������ʾ��ʽ */
+    font-display: block;
+}
