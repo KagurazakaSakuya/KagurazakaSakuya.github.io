@@ -6245,9 +6245,9 @@ blockquote.pullquote.right {
 /* 字体引入 */
 
 @font-face {
-  font-family: ZhuZiAWan;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/ZhuZiAWan2.woff2);
-  font-display: swap;
+    font-family: ZhuZiAWan;
+    src: url(/font/ZhuZiAWan2.woff2);
+    font-display: swap;
 }
 
 /* 特定部件字体调用 */
