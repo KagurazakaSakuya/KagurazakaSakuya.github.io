@@ -209,24 +209,6 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/life/games/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://moesakuya.xyz/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://moesakuya.xyz/box/nav/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -236,7 +218,16 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/index.html</loc>
+    <loc>https://moesakuya.xyz/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moesakuya.xyz/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -254,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/box/animation/index.html</loc>
+    <loc>https://moesakuya.xyz/life/movies/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -282,6 +273,15 @@
   
   <url>
     <loc>https://moesakuya.xyz/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moesakuya.xyz/tags/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -322,6 +322,13 @@
   </url>
   
   <url>
+    <loc>https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://moesakuya.xyz/tags/%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2023-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -329,7 +336,14 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://moesakuya.xyz/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2023-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://moesakuya.xyz/tags/%E7%9E%8E%E6%AF%94%E6%AF%94/</loc>
     <lastmod>2023-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -371,20 +385,6 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2023-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://moesakuya.xyz/tags/%E7%9E%8E%E6%AF%94%E6%AF%94/</loc>
-    <lastmod>2023-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://moesakuya.xyz/tags/MC/</loc>
     <lastmod>2023-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -392,14 +392,14 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://moesakuya.xyz/tags/VRChat/</loc>
     <lastmod>2023-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/VRChat/</loc>
+    <loc>https://moesakuya.xyz/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2023-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
