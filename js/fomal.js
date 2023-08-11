@@ -2339,9 +2339,9 @@ if (m == 12 && dd == 25) {//圣诞节
     sessionStorage.setItem("isPopupWindow", "1");
   }
 }
-if (m == 8 && dd == 11) {//站长生日
+if (m == 12 && dd == 16) {//站长生日
   if (sessionStorage.getItem("isPopupWindow") != "1") {
-    Swal.fire("祝站长" + (y - 1998).toString() + "岁生日快乐！🥝");
+    Swal.fire("Sakuya今天" + (y - 2004).toString() + "岁啦~！");
     sessionStorage.setItem("isPopupWindow", "1");
   }
 }
