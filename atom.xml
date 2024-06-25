@@ -198,9 +198,9 @@
     <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
-    
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     <category term="VR" scheme="https://moesakuya.xyz/tags/VR/"/>
     
@@ -273,9 +273,9 @@
     <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
-    
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     <category term="VR" scheme="https://moesakuya.xyz/tags/VR/"/>
     
@@ -334,9 +334,9 @@
     <link href="https://moesakuya.xyz/posts/58a1ebb6.html"/>
     <id>https://moesakuya.xyz/posts/58a1ebb6.html</id>
     <published>2021-07-18T05:04:02.000Z</published>
-    <updated>2024-01-01T07:24:18.685Z</updated>
+    <updated>2024-05-28T13:47:38.304Z</updated>
     
-    <content type="html"><![CDATA[<div class="tip info"><p>1.准备好一张gif（图片也行！）</p><p>2.Steam必须到达10级</p></div><h2 id="一、截图上传">一、截图上传</h2><p>1.到<a href="http://steamcommunity.com/sharedfiles/edititem/767/3/">http://steamcommunity.com/sharedfiles/edititem/767/3/</a></p><p>2.右键点<code>审查元素</code>（快捷键F12）</p><p>3.复制以下代码</p><p>document.getElementsByName(“file_type”)[0].value = 5;</p><p>4.到审查元素的控制台（Console）粘贴代码并回车</p><p>5.上传截图</p><p>6.到个人资料设置即可</p>]]></content>
+    <content type="html"><![CDATA[<div class="tip info"><p>1.准备好一张gif（图片也行！）</p><p>2.Steam必须到达10级</p></div><h2 id="一、截图上传">一、截图上传</h2><p>1.到<a href="http://steamcommunity.com/sharedfiles/edititem/767/3/">http://steamcommunity.com/sharedfiles/edititem/767/3/</a></p><p>2.右键点<code>审查元素</code>（快捷键F12）</p><p>3.复制以下代码</p><p>document.getElementsByName(“file_type”)[0].value = 5;<br>（如果复制出来的引号是中文的，请替换成英文)</p><p>4.到审查元素的控制台（Console）粘贴代码并回车</p><p>5.上传截图</p><p>6.到个人资料设置即可</p>]]></content>
     
     
     <summary type="html">自定义的截图哦~！</summary>

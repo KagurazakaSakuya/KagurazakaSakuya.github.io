@@ -213,9 +213,9 @@
       
         <tags>
             
-            <tag> 小技巧 </tag>
-            
             <tag> 技术 </tag>
+            
+            <tag> 小技巧 </tag>
             
             <tag> VR </tag>
             
@@ -300,9 +300,9 @@
       
         <tags>
             
-            <tag> 小技巧 </tag>
-            
             <tag> 技术 </tag>
+            
+            <tag> 小技巧 </tag>
             
             <tag> VR </tag>
             
@@ -373,7 +373,7 @@
       <link href="/posts/58a1ebb6.html"/>
       <url>/posts/58a1ebb6.html</url>
       
-        <content type="html"><![CDATA[<div class="tip info"><p>1.准备好一张gif（图片也行！）</p><p>2.Steam必须到达10级</p></div><h2 id="一、截图上传">一、截图上传</h2><p>1.到<a href="http://steamcommunity.com/sharedfiles/edititem/767/3/">http://steamcommunity.com/sharedfiles/edititem/767/3/</a></p><p>2.右键点<code>审查元素</code>（快捷键F12）</p><p>3.复制以下代码</p><p>document.getElementsByName(“file_type”)[0].value = 5;</p><p>4.到审查元素的控制台（Console）粘贴代码并回车</p><p>5.上传截图</p><p>6.到个人资料设置即可</p>]]></content>
+        <content type="html"><![CDATA[<div class="tip info"><p>1.准备好一张gif（图片也行！）</p><p>2.Steam必须到达10级</p></div><h2 id="一、截图上传">一、截图上传</h2><p>1.到<a href="http://steamcommunity.com/sharedfiles/edititem/767/3/">http://steamcommunity.com/sharedfiles/edititem/767/3/</a></p><p>2.右键点<code>审查元素</code>（快捷键F12）</p><p>3.复制以下代码</p><p>document.getElementsByName(“file_type”)[0].value = 5;<br>（如果复制出来的引号是中文的，请替换成英文)</p><p>4.到审查元素的控制台（Console）粘贴代码并回车</p><p>5.上传截图</p><p>6.到个人资料设置即可</p>]]></content>
       
       
       <categories>
