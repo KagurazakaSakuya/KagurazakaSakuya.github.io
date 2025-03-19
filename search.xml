@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>Linux常用插件模块快速安装</title>
-      <link href="/posts/753f2a56.html"/>
-      <url>/posts/753f2a56.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="docker-compose">docker&amp;compose</h2><p>```<br>#docker安装<br>sudo apt update &amp;&amp; sudo apt install <a href="http://docker.io">docker.io</a> -y<br>#服务启动<br>sudo systemctl start docker<br>#compose安装<br>sudo curl -L “<a href="https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$">https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$</a>(uname -s)-$(uname -m)” -o /usr/local/bin/docker-compose<br>sudo chmod +x /usr/local/bin/docker-compose<br>#ubuntu快装<br>sudo apt  install docker-compose<br>```</p><h2 id="screen">screen</h2><p>```<br>#CentOS<br>yum install screen<br>#Debian/Ubuntu<br>apt install screen<br>#常用指令<br>#查询<br>screen -ls<br>#创建新终端/返回之前的钟断<br>screen -R [name]<br>```</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 技术教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 技术 </tag>
-            
-            <tag> Linux </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Minecraft服务器优化指南</title>
       <link href="/posts/78796583.html"/>
       <url>/posts/78796583.html</url>
@@ -165,9 +138,9 @@
             
             <tag> 技术 </tag>
             
-            <tag> 游戏 </tag>
-            
             <tag> VRChat </tag>
+            
+            <tag> 游戏 </tag>
             
         </tags>
       
@@ -271,13 +244,13 @@
       
         <tags>
             
-            <tag> 小技巧 </tag>
-            
             <tag> 技术 </tag>
             
             <tag> VR </tag>
             
             <tag> 项目推荐 </tag>
+            
+            <tag> 小技巧 </tag>
             
         </tags>
       
@@ -358,13 +331,13 @@
       
         <tags>
             
-            <tag> 小技巧 </tag>
-            
             <tag> 技术 </tag>
             
             <tag> VR </tag>
             
             <tag> 项目推荐 </tag>
+            
+            <tag> 小技巧 </tag>
             
         </tags>
       

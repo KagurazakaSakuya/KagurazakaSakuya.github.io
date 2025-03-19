@@ -6,7 +6,7 @@
   <link href="https://moesakuya.xyz/atom.xml" rel="self"/>
   
   <link href="https://moesakuya.xyz/"/>
-  <updated>2025-03-19T06:23:57.248Z</updated>
+  <updated>2025-03-11T07:55:40.151Z</updated>
   <id>https://moesakuya.xyz/</id>
   
   <author>
@@ -15,35 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Linux常用插件模块快速安装</title>
-    <link href="https://moesakuya.xyz/posts/753f2a56.html"/>
-    <id>https://moesakuya.xyz/posts/753f2a56.html</id>
-    <published>2025-03-19T07:08:48.000Z</published>
-    <updated>2025-03-19T06:23:57.248Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="docker-compose">docker&amp;compose</h2><p>```<br>#docker安装<br>sudo apt update &amp;&amp; sudo apt install <a href="http://docker.io">docker.io</a> -y<br>#服务启动<br>sudo systemctl start docker<br>#compose安装<br>sudo curl -L “<a href="https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$">https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$</a>(uname -s)-$(uname -m)” -o /usr/local/bin/docker-compose<br>sudo chmod +x /usr/local/bin/docker-compose<br>#ubuntu快装<br>sudo apt  install docker-compose<br>```</p><h2 id="screen">screen</h2><p>```<br>#CentOS<br>yum install screen<br>#Debian/Ubuntu<br>apt install screen<br>#常用指令<br>#查询<br>screen -ls<br>#创建新终端/返回之前的钟断<br>screen -R [name]<br>```</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;docker-compose&quot;&gt;docker&amp;amp;compose&lt;/h2&gt;
-&lt;p&gt;```&lt;br&gt;
-#docker安装&lt;br&gt;
-sudo apt update &amp;amp;&amp;amp; sudo apt install &lt;a href=&quot;http://docker.</summary>
-      
-    
-    
-    
-    <category term="技术教程" scheme="https://moesakuya.xyz/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="Linux" scheme="https://moesakuya.xyz/tags/Linux/"/>
-    
-  </entry>
   
   <entry>
     <title>Minecraft服务器优化指南</title>
@@ -164,9 +135,9 @@ sudo apt update &amp;amp;&amp;amp; sudo apt install &lt;a href=&quot;http://dock
     
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="游戏" scheme="https://moesakuya.xyz/tags/%E6%B8%B8%E6%88%8F/"/>
-    
     <category term="VRChat" scheme="https://moesakuya.xyz/tags/VRChat/"/>
+    
+    <category term="游戏" scheme="https://moesakuya.xyz/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
@@ -254,13 +225,13 @@ sudo apt update &amp;amp;&amp;amp; sudo apt install &lt;a href=&quot;http://dock
     <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
-    
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="VR" scheme="https://moesakuya.xyz/tags/VR/"/>
     
     <category term="项目推荐" scheme="https://moesakuya.xyz/tags/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
@@ -329,13 +300,13 @@ sudo apt update &amp;amp;&amp;amp; sudo apt install &lt;a href=&quot;http://dock
     <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
-    
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="VR" scheme="https://moesakuya.xyz/tags/VR/"/>
     
     <category term="项目推荐" scheme="https://moesakuya.xyz/tags/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
