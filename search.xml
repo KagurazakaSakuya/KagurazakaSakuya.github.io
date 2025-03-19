@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Linux常用插件模块快速安装</title>
+      <link href="/posts/753f2a56.html"/>
+      <url>/posts/753f2a56.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="docker-compose">docker&amp;compose</h2><pre><code>#docker安装sudo apt update &amp;&amp; sudo apt install docker.io -y  #服务启动  sudo systemctl start docker  #compose安装sudo curl -L &quot;https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)&quot; -o /usr/local/bin/docker-compose  sudo chmod +x /usr/local/bin/docker-compose  #ubuntu快装  sudo apt  install docker-compose  </code></pre><h2 id="screen">screen</h2><pre><code>#CentOSyum install screen  #Debian/Ubuntuapt install screen  #常用指令  #查询  screen -ls  #创建新终端/返回之前的钟断  screen -R [name]  </code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Minecraft服务器优化指南</title>
       <link href="/posts/78796583.html"/>
       <url>/posts/78796583.html</url>
@@ -244,9 +271,9 @@
       
         <tags>
             
-            <tag> 技术 </tag>
-            
             <tag> 小技巧 </tag>
+            
+            <tag> 技术 </tag>
             
             <tag> VR </tag>
             
@@ -331,9 +358,9 @@
       
         <tags>
             
-            <tag> 技术 </tag>
-            
             <tag> 小技巧 </tag>
+            
+            <tag> 技术 </tag>
             
             <tag> VR </tag>
             

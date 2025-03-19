@@ -6,7 +6,7 @@
   <link href="https://moesakuya.xyz/atom.xml" rel="self"/>
   
   <link href="https://moesakuya.xyz/"/>
-  <updated>2025-03-11T07:55:40.151Z</updated>
+  <updated>2025-03-19T07:06:45.502Z</updated>
   <id>https://moesakuya.xyz/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux常用插件模块快速安装</title>
+    <link href="https://moesakuya.xyz/posts/753f2a56.html"/>
+    <id>https://moesakuya.xyz/posts/753f2a56.html</id>
+    <published>2025-03-19T07:08:48.000Z</published>
+    <updated>2025-03-19T07:06:45.502Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="docker-compose">docker&amp;compose</h2><pre><code>#docker安装sudo apt update &amp;&amp; sudo apt install docker.io -y  #服务启动  sudo systemctl start docker  #compose安装sudo curl -L &quot;https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)&quot; -o /usr/local/bin/docker-compose  sudo chmod +x /usr/local/bin/docker-compose  #ubuntu快装  sudo apt  install docker-compose  </code></pre><h2 id="screen">screen</h2><pre><code>#CentOSyum install screen  #Debian/Ubuntuapt install screen  #常用指令  #查询  screen -ls  #创建新终端/返回之前的钟断  screen -R [name]  </code></pre>]]></content>
+    
+    
+    <summary type="html">嗨！我不是猪！</summary>
+    
+    
+    
+    <category term="技术教程" scheme="https://moesakuya.xyz/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Linux" scheme="https://moesakuya.xyz/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>Minecraft服务器优化指南</title>
@@ -225,9 +248,9 @@
     <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
-    
     <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="VR" scheme="https://moesakuya.xyz/tags/VR/"/>
     
@@ -300,9 +323,9 @@
     <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
-    
     <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="VR" scheme="https://moesakuya.xyz/tags/VR/"/>
     
