@@ -1520,12 +1520,6 @@ img:not([src]) {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   filter: alpha(opacity=0);
 }
-img[data-lazy-src]:not(.loaded) {
-  filter: blur(8px) brightness(1);
-}
-img[data-lazy-src].error {
-  filter: none;
-}
 .img-alt {
   margin: -10px 0 10px;
   color: #858585;
@@ -7319,7 +7313,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-    background: url(https://bu.dusays.com/2023/07/20/64b936a0067ed.png) no-repeat center center;
+    background: url(https://bu.dusays.com/2025/03/11/67cfde0e75eb8.png) no-repeat center center;
     background-size: cover;
 }
 
@@ -8796,6 +8790,23 @@ hr:before {
 }
 
 
+
+/* 封面图片点击效果 */
+.recent-post-cover a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.recent-post-cover a img {
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.recent-post-cover a:hover img {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
 
 .search-dialog {
   position: fixed;
