@@ -6,7 +6,7 @@
   <link href="https://moesakuya.xyz/atom.xml" rel="self"/>
   
   <link href="https://moesakuya.xyz/"/>
-  <updated>2026-01-01T12:05:04.209Z</updated>
+  <updated>2026-02-25T10:44:26.666Z</updated>
   <id>https://moesakuya.xyz/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>杂谈</title>
+    <link href="https://moesakuya.xyz/posts/753f2a51.html"/>
+    <id>https://moesakuya.xyz/posts/753f2a51.html</id>
+    <published>2026-02-25T11:30:41.000Z</published>
+    <updated>2026-02-25T10:44:26.666Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="6cef6e21c0cab3207926c513769ede55b25324d766d3c2e02c3d2f74d6ab4a18">18f22309d26a40f42827612267266bdc2f2e96a08f21a6915fbbf281c681deb65fa5e427aea2977e320c096486adb143</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">一些心里话</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://moesakuya.xyz/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="公告" scheme="https://moesakuya.xyz/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>域名废止公告</title>
@@ -152,9 +173,9 @@
     
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="Linux" scheme="https://moesakuya.xyz/tags/Linux/"/>
-    
     <category term="CS2" scheme="https://moesakuya.xyz/tags/CS2/"/>
+    
+    <category term="Linux" scheme="https://moesakuya.xyz/tags/Linux/"/>
     
   </entry>
   
@@ -315,13 +336,13 @@
     <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
+    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
     <category term="VR" scheme="https://moesakuya.xyz/tags/VR/"/>
     
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="项目推荐" scheme="https://moesakuya.xyz/tags/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/"/>
-    
-    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
@@ -390,13 +411,13 @@
     <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
+    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
     <category term="VR" scheme="https://moesakuya.xyz/tags/VR/"/>
     
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="项目推荐" scheme="https://moesakuya.xyz/tags/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/"/>
-    
-    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
@@ -466,27 +487,6 @@
     <category term="Steam" scheme="https://moesakuya.xyz/tags/Steam/"/>
     
     <category term="技术" scheme="https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何将你的qq表情包的背景变透明</title>
-    <link href="https://moesakuya.xyz/posts/6cfa4544.html"/>
-    <id>https://moesakuya.xyz/posts/6cfa4544.html</id>
-    <published>2021-06-27T11:56:27.000Z</published>
-    <updated>2023-07-02T04:14:36.629Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip info"><p>最近在telegram上搞到好多好看的表情包（在telegram显示是透明的），但是在导出来发到qq时，qq自动给图糊上了白/黑边。当时就想到了解决方法：qq能对jpg，png之类的文件下手，总不能对gif下手吧？！于是实践了一下，确实可以解决这个问题。</p></div><hr><h1>动手！</h1><div class="tip warning"><p>本操作好像仅适用于带白黑边的表情包哦~</p></div><p>很简单~先打开PS，把表情包打开，文件-导出-储存为Web所用格式（旧版）。</p><p>导出格式选择Gif，然后点储存，发到qq就可以了~</p>]]></content>
-    
-    
-    <summary type="html">&lt;!--more--&gt;</summary>
-    
-    
-    
-    <category term="小技巧" scheme="https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
-    
-    
-    <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
