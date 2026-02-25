@@ -6,7 +6,7 @@
   <link href="https://moesakuya.xyz/atom.xml" rel="self"/>
   
   <link href="https://moesakuya.xyz/"/>
-  <updated>2025-03-19T07:06:45.502Z</updated>
+  <updated>2026-01-01T12:05:04.209Z</updated>
   <id>https://moesakuya.xyz/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>域名废止公告</title>
+    <link href="https://moesakuya.xyz/posts/753f2a51.html"/>
+    <id>https://moesakuya.xyz/posts/753f2a51.html</id>
+    <published>2026-01-01T12:50:37.000Z</published>
+    <updated>2026-01-01T12:05:04.209Z</updated>
+    
+    <content type="html"><![CDATA[<h1>公告：自2026年2月26日起，moesakuya.xyz将被停止使用，这意味着此域名随时会停止解析并废除</h1><p>自2020年注册此域名开始，moesakuya.xyz已经六岁啦~<br>不过现在已经有更好的sakuya.moe来取代它，因此决定停用老域名。<br>让我们跟moesakuya.xyz说再见吧~   感谢陪伴~</p><p>小声碎碎念：<strong>啊啊啊，我的steam展柜又要重新设计了（悲</strong></p>]]></content>
+    
+    
+    <summary type="html">moesakuya.xyz要被废除啦~</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://moesakuya.xyz/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="公告" scheme="https://moesakuya.xyz/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2025年度小结</title>
+    <link href="https://moesakuya.xyz/posts/753f2a54.html"/>
+    <id>https://moesakuya.xyz/posts/753f2a54.html</id>
+    <published>2026-01-01T11:09:12.000Z</published>
+    <updated>2026-01-01T11:43:55.938Z</updated>
+    
+    <content type="html"><![CDATA[<p>嗨，眨眼间就到2026了，上次跨年好像还是在上次！这次跨年依旧是在社团的MC服务器里面，近两天服务器遭受有史以来最严重的DDOS，不过还好跨年活动期间算是平稳度过了，算是有惊无险吧。<br>今年是尝试各种爱好的一年，接触了板绘，钢琴和舞蹈，虽然笨笨的但也到了入门的水平~ 这个寒假也是计划用舞蹈度过，不过下个学期的假期好像就要找实习了呢或许也是最后一舞啦，突然就感觉要毕业了有点难过ww。</p><p>今年也是认识了很多新朋友！好友数：281➡332 感谢大家在2025的支持与陪伴，2026我们继续向前~</p><p>其实这一年也挺忙碌的嘿嘿，上半年忙比赛，下半年忙生意，还好两边都算是有成果，上半年的比赛拿到了国家三等奖，下半年的流水也成功破万，我也是把原本的1.0基站换成了2.0~</p><p>其实有很多想说的但是马上要考试了加上表达能力有限就先写到这里吧~</p><p>总的来讲，这一年过的很充实，没留下什么遗憾，2026继续朝着梦想努力吧！</p>]]></content>
+    
+    
+    <summary type="html">平稳度过的一年！</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://moesakuya.xyz/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://moesakuya.xyz/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="瞎比比" scheme="https://moesakuya.xyz/tags/%E7%9E%8E%E6%AF%94%E6%AF%94/"/>
+    
+  </entry>
   
   <entry>
     <title>Linux常用插件模块快速安装</title>
@@ -443,50 +487,6 @@
     
     
     <category term="小技巧" scheme="https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Steam个人资料美化Ep.1⭐---艺术展柜の美化</title>
-    <link href="https://moesakuya.xyz/posts/fd5b9e21.html"/>
-    <id>https://moesakuya.xyz/posts/fd5b9e21.html</id>
-    <published>2021-06-27T11:28:11.000Z</published>
-    <updated>2025-03-11T07:10:10.007Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip warning"><p>你的Steam需要达到一定的等级来解锁艺术展柜功能。貌似是10级？=。=</p></div>  <div class="tip warning"><p>注意：复制本文章代码时请将里面的引号改为美式的，由于未知原因复制出去代码总是在使用中式引号</p></div><hr><h2 id="一、图片准备">一、图片准备</h2><p>首先你需要在市场购买一个你喜欢的背景。</p><p>准备好后进入<a href="https://steam.design/">https://steam.design/</a></p><p>在右上角登录你的steam，然后到steam中的库存选择你想要的背景，点“<code>查看完整大小</code>”。</p><p>复制刚刚打开的图片的链接，粘贴到刚刚的网站，然后点“<code>Change BG</code>”。</p><p>点“<code>Download Image</code>”，这个时候你会得到一个zip压缩包。</p><hr><h2 id="二、图片上传">二、图片上传</h2><div class="tip warning"><p>注意：如果你要将你的长背景美化后再上传，请先将你得到的压缩包解压缩，用PS打开，你可以将你喜欢的动漫人物或其他物品P进图片，注意保存的时候要维持原来的格式！！！！！</p></div>  <div class="tip "><p>如果你的个人资料没有“<code>艺术作品</code>”，请直接至<br><a href="https://steamcommunity.com/sharedfiles/edititem/767/3/">https://steamcommunity.com/sharedfiles/edititem/767/3/</a></p></div><p>到你的Steam个人资料，将背景先改好。</p><p>返回你的个人资料，点“<code>艺术作品</code>”，然后点“<code>上传艺术作品</code>”——“<code>非游戏特定</code>”。</p><p>给你的艺术作品随便填一个名字就行，然后上传压缩包内的图片。（第一张比较大的是属于精选艺术展柜专用，请传那两个偏小的）</p><p>打开审查元素（按F12），在Console中输入以下代码：</p><p>var num= document.getElementsByName(“image_width”)[0].value;<br>document.getElementsByName(“image_height”)[0].value = num-(num-1);<br>document.getElementsByName(“image_width”)[0].value= num*100;</p><p>然后回车，这时会返回一个50600或者10000.</p><p>接下来你就可以上传了。</p><p>注意，这个操作你要再重复一遍用来上传第二张图片。</p><hr><h2 id="三、修改个人资料">三、修改个人资料</h2><p>接下来就是收尾阶段了。</p><p>到你的steam个人资料，设置一个艺术作品展柜，将两张图片上传即可。</p>]]></content>
-    
-    
-    <summary type="html">&lt;!--more--&gt;</summary>
-    
-    
-    
-    <category term="技术教程" scheme="https://moesakuya.xyz/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Steam" scheme="https://moesakuya.xyz/tags/Steam/"/>
-    
-    <category term="美化" scheme="https://moesakuya.xyz/tags/%E7%BE%8E%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello world!</title>
-    <link href="https://moesakuya.xyz/posts/1b851995.html"/>
-    <id>https://moesakuya.xyz/posts/1b851995.html</id>
-    <published>2021-06-19T14:03:34.000Z</published>
-    <updated>2023-03-11T15:49:24.174Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to WordPress. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-</summary>
-      
-    
-    
-    
     
   </entry>
   
