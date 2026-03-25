@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://moesakuya.xyz/posts/753f2a53.html</loc>
+    <loc>https://sakuya.moe/sample-page/index.html</loc>
+    
+    <lastmod>2026-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sakuya.moe/privacy-policy/index.html</loc>
+    
+    <lastmod>2026-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sakuya.moe/posts/753f2a53.html</loc>
     
     <lastmod>2026-03-24</lastmod>
     
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/personal/about/index.html</loc>
+    <loc>https://sakuya.moe/personal/about/index.html</loc>
     
     <lastmod>2026-03-21</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/78796583.html</loc>
+    <loc>https://sakuya.moe/posts/78796583.html</loc>
     
     <lastmod>2026-03-10</lastmod>
     
@@ -29,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/753f3f44.html</loc>
+    <loc>https://sakuya.moe/posts/753f3f44.html</loc>
     
     <lastmod>2026-02-26</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/changelog/index.html</loc>
+    <loc>https://sakuya.moe/changelog/index.html</loc>
     
     <lastmod>2026-02-17</lastmod>
     
@@ -47,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/753f2a51.html</loc>
+    <loc>https://sakuya.moe/posts/753f2a51.html</loc>
     
     <lastmod>2026-01-01</lastmod>
     
@@ -56,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/753f2a54.html</loc>
+    <loc>https://sakuya.moe/posts/753f2a54.html</loc>
     
     <lastmod>2026-01-01</lastmod>
     
@@ -65,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/753f2a56.html</loc>
+    <loc>https://sakuya.moe/posts/753f2a56.html</loc>
     
     <lastmod>2025-03-19</lastmod>
     
@@ -74,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/social/link/index.html</loc>
+    <loc>https://sakuya.moe/social/link/index.html</loc>
     
     <lastmod>2025-03-17</lastmod>
     
@@ -83,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/555eecf3.html</loc>
+    <loc>https://sakuya.moe/posts/555eecf3.html</loc>
     
     <lastmod>2025-03-11</lastmod>
     
@@ -92,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/643222e3.html</loc>
+    <loc>https://sakuya.moe/posts/643222e3.html</loc>
     
     <lastmod>2025-03-11</lastmod>
     
@@ -101,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/f09b5724.html</loc>
+    <loc>https://sakuya.moe/posts/f09b5724.html</loc>
     
     <lastmod>2025-03-11</lastmod>
     
@@ -110,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/b52fcd87.html</loc>
+    <loc>https://sakuya.moe/posts/b52fcd87.html</loc>
     
     <lastmod>2025-03-11</lastmod>
     
@@ -119,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/78794583.html</loc>
+    <loc>https://sakuya.moe/posts/78794583.html</loc>
     
     <lastmod>2025-03-11</lastmod>
     
@@ -128,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/fd5b9e21.html</loc>
+    <loc>https://sakuya.moe/posts/fd5b9e21.html</loc>
     
     <lastmod>2025-03-11</lastmod>
     
@@ -137,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/58a1ebb6.html</loc>
+    <loc>https://sakuya.moe/posts/58a1ebb6.html</loc>
     
     <lastmod>2024-05-28</lastmod>
     
@@ -146,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/b52fcd88.html</loc>
+    <loc>https://sakuya.moe/posts/b52fcd88.html</loc>
     
     <lastmod>2024-01-01</lastmod>
     
@@ -155,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/vrcfbt.html</loc>
+    <loc>https://sakuya.moe/vrcfbt.html</loc>
     
     <lastmod>2024-01-01</lastmod>
     
@@ -164,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/6cfa4544.html</loc>
+    <loc>https://sakuya.moe/posts/6cfa4544.html</loc>
     
     <lastmod>2023-07-02</lastmod>
     
@@ -173,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/f1fe911e.html</loc>
+    <loc>https://sakuya.moe/posts/f1fe911e.html</loc>
     
     <lastmod>2023-07-02</lastmod>
     
@@ -182,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/561d5a53.html</loc>
+    <loc>https://sakuya.moe/posts/561d5a53.html</loc>
     
     <lastmod>2023-07-02</lastmod>
     
@@ -191,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/89cb7ce0.html</loc>
+    <loc>https://sakuya.moe/posts/89cb7ce0.html</loc>
     
     <lastmod>2023-07-02</lastmod>
     
@@ -200,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/39acea07.html</loc>
+    <loc>https://sakuya.moe/posts/39acea07.html</loc>
     
     <lastmod>2023-07-02</lastmod>
     
@@ -209,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/d8a0ffa.html</loc>
+    <loc>https://sakuya.moe/posts/d8a0ffa.html</loc>
     
     <lastmod>2023-07-02</lastmod>
     
@@ -218,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/a971d3b2.html</loc>
+    <loc>https://sakuya.moe/posts/a971d3b2.html</loc>
     
     <lastmod>2023-07-02</lastmod>
     
@@ -227,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/air-conditioner/index.html</loc>
+    <loc>https://sakuya.moe/air-conditioner/index.html</loc>
     
     <lastmod>2023-03-19</lastmod>
     
@@ -236,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/1b851995.html</loc>
+    <loc>https://sakuya.moe/posts/1b851995.html</loc>
     
     <lastmod>2023-03-11</lastmod>
     
@@ -245,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/message/index.html</loc>
+    <loc>https://sakuya.moe/message/index.html</loc>
     
     <lastmod>2023-03-11</lastmod>
     
@@ -254,25 +272,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/privacy-policy/index.html</loc>
-    
-    <lastmod>2023-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://moesakuya.xyz/sample-page/index.html</loc>
-    
-    <lastmod>2023-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://moesakuya.xyz/categories/index.html</loc>
+    <loc>https://sakuya.moe/categories/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/index.html</loc>
+    <loc>https://sakuya.moe/tags/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/life/games/index.html</loc>
+    <loc>https://sakuya.moe/box/animation/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/box/animation/index.html</loc>
+    <loc>https://sakuya.moe/life/music/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/life/music/index.html</loc>
+    <loc>https://sakuya.moe/box/nav/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/box/nav/index.html</loc>
+    <loc>https://sakuya.moe/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/life/movies/index.html</loc>
+    <loc>https://sakuya.moe/life/movies/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/site/census/index.html</loc>
+    <loc>https://sakuya.moe/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -344,7 +344,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/site/time/index.html</loc>
+    <loc>https://sakuya.moe/site/time/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -353,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/social/fcircle/index.html</loc>
+    <loc>https://sakuya.moe/site/census/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -362,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/posts/2013454d.html</loc>
+    <loc>https://sakuya.moe/posts/2013454d.html</loc>
     
     <lastmod>2022-10-23</lastmod>
     
@@ -371,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/site/echarts/index.html</loc>
+    <loc>https://sakuya.moe/site/echarts/index.html</loc>
     
     <lastmod>2022-09-10</lastmod>
     
@@ -381,177 +381,177 @@
   
 
   <url>
-    <loc>https://moesakuya.xyz/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://moesakuya.xyz/tags/Steam/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/Steam/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E7%BE%8E%E5%8C%96/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/VR/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/VR/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E7%9E%8E%E6%AF%94%E6%AF%94/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E7%9E%8E%E6%AF%94%E6%AF%94/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/CS-GO/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/CS-GO/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/Markdown/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/Markdown/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/MC/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/MC/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/VRChat/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/VRChat/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/CS2/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/CS2/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/Linux/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/Linux/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/Minecraft/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/Minecraft/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/Windows/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/Windows/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/VRCHAT/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/Unity/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/VRCHAT/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/tags/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/tags/Unity/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -559,29 +559,29 @@
 
   
   <url>
-    <loc>https://moesakuya.xyz/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/categories/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/categories/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moesakuya.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://sakuya.moe/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
