@@ -106,27 +106,18 @@ function getIpAndWeather(default_city = '') {
     fetchCityWeather(default_city);
   } else {
     // 无默认城市 → IP定位
-    fetch('https://api.vore.top/api/IPdata?ip=')
+    const gaudCity = `https://restapi.amap.com/v3/ip?key=${gaud_map_key}`;
+    fetch(gaudCity)
       .then(res => res.json())
       .then(ipData => {
-        const cityName = ipData.ipdata.info3 || ipData.ipdata.info2 || '未知城市';
+        const cityName = ipData.city && ipData.city !== ""
+          ? ipData.city
+          : ipData.province || "未知城市";
         fetchCityWeather(cityName);
       })
-      .catch(err => console.error('❌ IP接口错误:', err));
+      .catch(err => console.error('❌ 高德IP接口错误:', err));
   }
 }
-
-// ==========================
-// 🚀 调用示例
-// ==========================
-// 示例1：使用 IP 自动定位城市
-// getIpAndWeather();
-
-// 示例2：指定默认城市（洛杉矶）
-// getIpAndWeather('洛杉矶');
-
-// 示例3：国内默认城市（深圳）
-// getIpAndWeather('深圳');
 
 // 实际运行
 getIpAndWeather(default_city);
